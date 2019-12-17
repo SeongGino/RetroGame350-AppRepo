@@ -4,6 +4,8 @@ These are all ports with the best available binaries (.OPKs), at least from my (
 
 All apps can be placed inside and ran from either the internal SD card in `/media/data/apps/`, or in the external card in `/media/sdcard/apps/`.
 
+`/media/data/local/share/` when navigating from FTP, and `/usr/local/share/` when navigating from DinguxCommander on the device are the same target directory. Keep this in mind when referencing locations for needed data files.
+
 Anything not found here could be alternatively located within these domains, however we like to keep the focus on the present.
 
 [GCW Zero Homepage](http://www.gcw-zero.com/downloads)
@@ -16,7 +18,7 @@ Abuse* | [Latest](https://drive.google.com/open?id=1iILjTghcEt90zcsMCN10MChG0fFQ
 Arkanoid | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/Arkanoid.opk) | Legacy (Source N/A) | No
 Cannonball* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/cannonball.opk) | [Inactive](https://github.com/gameblabla/Cannonballs/raw/master/cannonball.opk) | OutRun (sitdown/upright, Rev B) Data Files (Unzipped), `~/.cannonball/roms/`
 Cannon Fodder | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/cannonfodder.opk) | Legacy (Source N/A) | No
-Chocolate Doom** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/chocolatedoom-selector.opk) | Inactive (Source N/A) | (Final) DOOM (2)/Heretic/Hexen/Strife Data Files
+Chocolate Doom** *** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/chocolatedoom-selector.opk) | Inactive (Source N/A) | (Final) DOOM (2)/Heretic/Hexen/Strife Data Files
 DevilutionX* | [Latest](https://github.com/glebm/devilutionX/releases/latest) | [Active Fork](https://github.com/glebm/devilutionX) | Diablo 1.09b Data File, `~/.local/share/diasurgical/diablo/diabdat.mpq`
 ECWolf* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/ecwolf.opk) | [Inactive](https://github.com/JohnnyonFlame/ecwolf) | Wolfenstein 3D/Spear of Destiny Data Files, `~/.ecwolf/`
 eDuke32* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/eduke32.opk) | [Inactive](https://github.com/zear/eduke32) | Duke Nukem 3D (Shareware/Registered/Plutonium Pak), `~/.eduke32/`
@@ -30,7 +32,7 @@ Marathon 2* | [Latest](https://drive.google.com/open?id=1bieRbLbcv8Dn3yKNflIZcfB
 Marathon Infinite* | [Latest](https://drive.google.com/open?id=1UayihX4pbpY0gyLC-dWnBuvGLNTQeFl9) | Active (Source N/A) | No
 Mr.Drillux | [Latest](https://github.com/jbanes/rs97-mrdrillux/releases/latest) | [Inactive](https://github.com/jbanes/rs97-mrdrillux) | No
 NXEngine | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/CaveStory.opk) | Inactive (Source N/A) | No
-Odamex* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/odamex.opk) | [Inactive](https://github.com/JohnnyonFlame/odamex) | (Final) DOOM (2) Data Files
+Odamex* *** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/odamex.opk) | [Inactive](https://github.com/JohnnyonFlame/odamex) | (Final) DOOM (2) Data Files
 OpenBOR | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/OpenBOR_3.0_r4165_GCW0_Edition.opk) | [Inactive](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) | OpenBOR Game Pak Files, `/usr/local/share/OpenBOR/Paks/`
 OpenJazz | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/openjazz.opk) | [Inactive](https://boards.dingoonity.org/gcw-development/openjazz-8914/) | Jazz Jackrabbit Data Files, `~/.openjazz/`
 OpenSonic | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/opensonic.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/opensonic-0-1-4/) | No
@@ -60,11 +62,11 @@ Index:
 
 ***:Uses frontend file explorer for input.
 
-`/media/data/local/share/` when navigating from FTP, and `/usr/local/share/` when navigating from DinguxCommander on the device are the same target directory.
-
 ---
 
 ## Emulators
+
+Unless specified, emulators use the frontend's file explorer for ROM files, or have been modified to do so.
 
 | Emulated System(s) | Name | OPK Link | Source | Requires System Files? |
 |--------------------|:------:|:--------:|:------:|-----------------------:|
@@ -103,8 +105,6 @@ Super Nintendo Entertainment System (High Accuracy, Slow) | Snes9x | [2019-11-11
 ZX Spectrum | Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/UnrealSpeccyPortable_2013-05-13.opk) | [Inactive](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) | No
 
 ### Index:
-
-Unless specified, emulators use the frontend's file explorer for ROM files, or have been modified to do so.
 
 *: Emulator uses its own frontend for setup and/or selection
 
