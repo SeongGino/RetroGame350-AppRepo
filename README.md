@@ -28,8 +28,8 @@ Marathon Infinite | [Latest](https://drive.google.com/open?id=1UayihX4pbpY0gyLC-
 NXEngine | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/CaveStory.opk) | Inactive | No
 Odamex | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/odamex.opk) | [Inactive](https://github.com/JohnnyonFlame/odamex) | (Final) DOOM (2) Data Files
 OpenBOR | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/OpenBOR_3.0_r4165_GCW0_Edition.opk) | [Inactive](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) | OpenBOR Game Pak Files, `~/.openbor/`
-OpenJazz |  | [Inactive](https://boards.dingoonity.org/gcw-development/openjazz-8914/) | Jazz Jackrabbit Data Files, `~/.openjazz/`
-OpenSonic |  | [Legacy](http://opensnc.sourceforge.net/home/index.php) | No
+OpenJazz | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/openjazz.opk) | [Inactive](https://boards.dingoonity.org/gcw-development/openjazz-8914/) | Jazz Jackrabbit Data Files, `~/.openjazz/`
+OpenSonic | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/opensonic.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/opensonic-0-1-4/) | No
 OpenTyrian | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/opentyrian_r1055.opk) | [Inactive](https://github.com/JohnnyonFlame/OpenTyrian) | No
 POWDER | [Latest_v117](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/powder_117.opk) | Inactive | No
 REminiscence | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/REminiscence.opk) | [Inactive](https://github.com/ElwingGit/GCW0_REminiscence) | Flashback Data Files, `~/.REminiscence/data/`
