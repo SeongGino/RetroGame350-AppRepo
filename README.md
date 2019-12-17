@@ -65,7 +65,7 @@ PCSX4All-soarqin's C |  | [Active Fork](https://github.com/soarqin/RG350_pcsx4al
 PicoDrive | [2019-12-11](https://gameblabla.nl/files/ipk/gcw0/picodrive_gcw0.opk) | [Active](https://github.com/gameblabla/apparentlydoesntexist) | (Optional) Sega/Mega CD BIOS Images, `~/.picodrive/`
 PocketSNES |  | [Active](https://github.com/soarqin/PocketSNES) | No
 ReGBA |  | [Active Fork](https://github.com/soarqin/ReGBA) | (Optional) Game Boy Advance BIOS, `~/.gpsp/gba_bios.bin`
-ScummVM	|  | [Active Fork](https://github.com/jbanes/scummvm) | No
+ScummVM	| [Latest](https://github.com/jbanes/scummvm/releases) | [Active Fork](https://github.com/jbanes/scummvm) | No
 SMS Plus GX | [2019-11-29](https://gameblabla.nl/files/ipk/gcw0/smsplus_gcw0.opk) | [Active](https://github.com/gameblabla/sms_sdl) | No
 Snes9x |  | [Active Fork](https://github.com/soarqin/snes9x) | No
 Stella |  | [Inactive](https://github.com/DavidKnight247/Stella-3.9.3) | No
