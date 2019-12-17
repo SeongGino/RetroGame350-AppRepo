@@ -4,6 +4,10 @@
 
 These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed whenever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds, primarily the RG-350.
 
+Anything not found here could be alternatively located within these domains, however we like to keep the focus on the present.
+
+[GCW Zero Homepage](http://www.gcw-zero.com/downloads)
+
 ## Games & Ports
 
 | Name | OPK Link | Source | Requires Data Files? |
@@ -28,10 +32,10 @@ POWDER |  | Inactive | No
 REminiscence |  | [Inactive](https://github.com/ElwingGit/GCW0_REminiscence) | Flashback Data Files, `~/.REminiscence/data/`
 Rockbot |  | [Inactive](https://github.com/protoman/rockbot) | No
 Rise of the Triad |  | [Inactive Fork](https://github.com/podulator/RoTT) | Rise of the Triad: The Dark War (Registered Version) Data Files, `~/.rott/data/`
-SDLQuake2 |  | [Inactive Fork](https://github.com/gameblabla/quake2-rs97) | Quake II (Shareware/Registered) Data Files, `~/.quake2/baseq2`
+SDLQuake2 | [Latest](https://drive.google.com/open?id=1JZ17OhATuBklEUP5NQ73bVLEv_MmpDj3) | [Inactive Fork](https://github.com/gameblabla/quake2-rs97) | Quake II (Shareware/Registered) Data Files, `~/.quake2/baseq2`
 Shadow Warrior |  | [Inactive Fork](https://github.com/JohnnyonFlame/gcw0-jfsw) | Shadow Warrior (Shareware/Registered) Data Files, `~/.jfsw/sw.grp`
-Streets of Rage Remake v5.1 |  | [Legacy](https://sega.com) | No
-Sonic Robo Blast 2 |  | [Inactive Fork](https://github.com/gameblabla/srb2-gcw) | No
+Streets of Rage Remake v5.1 | [Latest](https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU) | [Legacy](https://sega.com) | No
+Sonic Robo Blast 2 | [2.1.15](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8) | [Inactive Fork](https://github.com/gameblabla/srb2-gcw) | No
 UMG-v0.4Demo |  | [Legacy](http://artur-rojek.eu/umg.php) | No
 Sqrxz (Remake) |  | Legacy | No
 Sqrxz 2: Two seconds 'til death |  | Legacy | No
@@ -70,6 +74,15 @@ UAE4All |  | [Inactive](https://github.com/zear/uae4all) | Amiga 500 Kickstart R
 Unreal Speccy Portable |  | [Inactive](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) | No
 VICE |  | [Legacy](https://boards.dingoonity.org/gcw-zero-emulation/(testing)-vice-2-3/) | No
 VICE Launcher |  | [Inactive Fork](https://github.com/SeongGino/notexistingyet) | VICE Data Folder, `/usr/local/share/VICE`
+
+---
+
+## Frontends
+
+| Name | OPK Link | Source |
+|------|:--------:|-------:|
+350teric |  | [Active](https://github.com/podulator/esoteric/)
+SimpleMenu |  | [Active]
 
 ---
 
