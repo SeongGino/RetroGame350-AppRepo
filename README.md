@@ -78,8 +78,8 @@ NGPCEmu	| [Latest (2019-12-11)](https://gameblabla.nl/files/ipk/gcw0/ngpcemu_gcw
 Nestopia (ALPHA) | [Upstream](https://github.com/Derynect/nestopia/releases/latest) | [Active](https://github.com/Derynect/nestopia) | ?
 OpenMSX	| [v0.15 (2018-12-08)](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/OpenMSX_2018-12-08.opk) | [Active Upstream](https://github.com/openMSX/openMSX) | (Optional) BlueMSX Compatible System Folders
 Oswan | [2017-09-08](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/Oswan_2017-09-08.opk) | ['Soon to be replaced'](https://github.com/gameblabla/oswan) | No
-PCSX4All-Gamebla's C++ | [2.4_2019-11-29](https://gameblabla.nl/files/ipk/gcw0/pcsx4all_rg350.opk) | [Active Fork](https://github.com/gameblabla/pcsx4all_rs97_rg350) | PlayStation BIOS, `~/.pcsx4all/bios/`
-PCSX4All-soarqin's C | [2.4_2019-12-12](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/PCSX4All_2019-12-12.opk) | [Active Fork](https://github.com/soarqin/RG350_pcsx4all) | PlayStation BIOS, `~/.pcsx4all/bios/`
+PCSX4All-Gamebla's C++ (Faster?) | [Latest (2.4_2019-11-29)](https://gameblabla.nl/files/ipk/gcw0/pcsx4all_rg350.opk) | [Active Fork](https://github.com/gameblabla/pcsx4all_rs97_rg350) | PlayStation BIOS, `~/.pcsx4all/bios/`
+PCSX4All-soarqin's C (DualShock Compatible) | [2.4_2019-12-12](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/PCSX4All_2019-12-12.opk) | [Active Fork](https://github.com/soarqin/RG350_pcsx4all) | PlayStation BIOS, `~/.pcsx4all/bios/`
 PicoDrive | [Latest (1.95_2019-12-11)](https://gameblabla.nl/files/ipk/gcw0/picodrive_gcw0.opk) | [Active](https://github.com/gameblabla/apparentlydoesntexist) | (Optional) Sega/Mega CD BIOS Images, `~/.picodrive/`
 PocketSNES | [2019-12-12](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/PocketSNES_2019-12-12.opk) | [Active](https://github.com/soarqin/PocketSNES) | No
 ProSystem | [2013-06-16-launcher](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/ProSystem_2013-06-16-launcher.opk) | [Inactive](https://github.com/alekmaul/prosystem) | No
