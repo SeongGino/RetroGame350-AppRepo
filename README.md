@@ -12,10 +12,10 @@ Anything not found here could be alternatively located within these domains, how
 
 | Name | OPK Link | Source | Requires Data Files? |
 |----------|:----:|:------:|---------------------:|
-Abuse | [Latest](https://drive.google.com/open?id=1iILjTghcEt90zcsMCN10MChG0fFQCkTB) | Inactive | No
+Abuse | [Latest](https://drive.google.com/open?id=1iILjTghcEt90zcsMCN10MChG0fFQCkTB) | Inactive (Source N/A) | No
 Cannonball | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/cannonball.opk) | [Inactive](https://github.com/gameblabla/Cannonballs/raw/master/cannonball.opk) | OutRun (sitdown/upright, Rev B) Data Files (Unzipped), `~/.cannonball/roms/`
-Cannon Fodder | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/cannonfodder.opk) | Legacy | No
-Chocolate Doom | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/chocolatedoom-selector.opk) | Inactive | (Final) DOOM (2)/Heretic/Hexen/Strife Data Files
+Cannon Fodder | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/cannonfodder.opk) | Legacy (Source N/A) | No
+Chocolate Doom | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/chocolatedoom-selector.opk) | Inactive (Source N/A) | (Final) DOOM (2)/Heretic/Hexen/Strife Data Files
 DevilutionX | [Latest](https://github.com/glebm/devilutionX/releases/latest) | [Active Fork](https://github.com/glebm/devilutionX) | Diablo 1.09b Data File, `~/.local/share/diasurgical/diablo/diabdat.mpq`
 ECWolf | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/ecwolf.opk) | [Inactive](https://github.com/JohnnyonFlame/ecwolf) | Wolfenstein 3D/Spear of Destiny Data Files, `~/.ecwolf/`
 eDuke32 | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/eduke32.opk) | [Inactive](https://github.com/zear/eduke32) | Duke Nukem 3D (Shareware/Registered/Plutonium Pak), `~/.eduke32/`
@@ -26,13 +26,13 @@ KOF - Flames of Courage v5 |  | [Legacy](https://sites.google.com/site/egstudiog
 Marathon | [Latest](https://drive.google.com/open?id=147IPd5EKXRzdXOSbD7gSJCpgorC7ce4y) | Active (Source N/A) | No
 Marathon 2 | [Latest](https://drive.google.com/open?id=1bieRbLbcv8Dn3yKNflIZcfBkbfCfW7XU) | Active (Source N/A) | No
 Marathon Infinite | [Latest](https://drive.google.com/open?id=1UayihX4pbpY0gyLC-dWnBuvGLNTQeFl9) | Active (Source N/A) | No
-NXEngine | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/CaveStory.opk) | Inactive | No
+NXEngine | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/CaveStory.opk) | Inactive (Source N/A) | No
 Odamex | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/odamex.opk) | [Inactive](https://github.com/JohnnyonFlame/odamex) | (Final) DOOM (2) Data Files
 OpenBOR | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/OpenBOR_3.0_r4165_GCW0_Edition.opk) | [Inactive](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) | OpenBOR Game Pak Files, `~/.openbor/`
 OpenJazz | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/openjazz.opk) | [Inactive](https://boards.dingoonity.org/gcw-development/openjazz-8914/) | Jazz Jackrabbit Data Files, `~/.openjazz/`
 OpenSonic | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/opensonic.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/opensonic-0-1-4/) | No
 OpenTyrian | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/opentyrian_r1055.opk) | [Inactive](https://github.com/JohnnyonFlame/OpenTyrian) | No
-POWDER | [Latest_v117](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/powder_117.opk) | Inactive | No
+POWDER | [Latest_v117](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/powder_117.opk) | Legacy (Source N/A) | No
 REminiscence | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/REminiscence.opk) | [Inactive](https://github.com/ElwingGit/GCW0_REminiscence) | Flashback Data Files, `~/.REminiscence/data/`
 Rise of the Triad | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/rott.opk) | [Inactive Fork](https://github.com/podulator/RoTT) | Rise of the Triad: The Dark War (Registered Version) Data Files, `~/.rott/data/`
 Rockbot | [Latest](https://rockbot.upperland.net/?download=1.20.74%20OpenDingux) | [Inactive](https://github.com/protoman/rockbot) | No
