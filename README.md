@@ -98,6 +98,7 @@ VICE (Launcher Mod)** | [2019-12-11](https://github.com/SeongGino/RetroGame350-A
 Unless specified, emulators use the frontend's file explorer for ROM files, or have been modified to do so.
 
 *: Emulator uses its own frontend for selection
+
 **: Emulator uses its own frontend for setup, required to use frontend launcher
 
 ---
