@@ -23,10 +23,12 @@ eDuke32* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/maste
 FreeDink | [Latest](https://drive.google.com/open?id=1NvA25Y0_1Mdh-mzMjvGHMq0J_M3_Q9Jq) | [Inactive](https://www.gnu.org/software/freedink/) | No
 Ghouls'n Ghosts Remix | [Latest](http://prizma.bmstu.ru/~exmortis/opk/ggr_056.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/ghouls-and-ghosts-remix-0-56/) | No
 Hexen 2	- Hammer of Thyrion** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/hexen2.opk) | [Inactive](https://github.com/JohnnyonFlame/gcw0-hexen2) | Hexen II Data Files, `~/.hexen2/data1`
+Hocoslamfy | [Latest](https://github.com/fgl82/hocoslamfy/releases/latest) | [Active](https://github.com/fgl82/hocoslamfy) | No
 KOF - Flames of Courage v5 | [Final (Broken?)](https://drive.google.com/open?id=1BtIlTPLAzYDJ4OWwVfdlndRGOWP81XDr) | [Inactive](https://github.com/gromv/kofv5) | No
 Marathon* | [Latest](https://drive.google.com/open?id=147IPd5EKXRzdXOSbD7gSJCpgorC7ce4y) | Active (Source N/A) | No
 Marathon 2* | [Latest](https://drive.google.com/open?id=1bieRbLbcv8Dn3yKNflIZcfBkbfCfW7XU) | Active (Source N/A) | No
 Marathon Infinite* | [Latest](https://drive.google.com/open?id=1UayihX4pbpY0gyLC-dWnBuvGLNTQeFl9) | Active (Source N/A) | No
+Mr.Drillux | [Latest](https://github.com/jbanes/rs97-mrdrillux/releases/latest) | [Inactive](https://github.com/jbanes/rs97-mrdrillux) | No
 NXEngine | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/CaveStory.opk) | Inactive (Source N/A) | No
 Odamex* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/odamex.opk) | [Inactive](https://github.com/JohnnyonFlame/odamex) | (Final) DOOM (2) Data Files
 OpenBOR | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/OpenBOR_3.0_r4165_GCW0_Edition.opk) | [Inactive](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) | OpenBOR Game Pak Files, `/usr/local/share/OpenBOR/Paks/`
@@ -34,6 +36,7 @@ OpenJazz | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/maste
 OpenSonic | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/opensonic.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/opensonic-0-1-4/) | No
 OpenTyrian** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/opentyrian_r1055.opk) | [Inactive](https://github.com/JohnnyonFlame/OpenTyrian) | No
 POWDER | [Latest_v117](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/powder_117.opk) | Legacy (Source N/A) | No
+Quartermaster | [Latest](https://github.com/hi-ban/quartermaster/releases/latest) | [Active](https://github.com/hi-ban/quartermaster) | No
 REminiscence | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/REminiscence.opk) | [Inactive](https://github.com/ElwingGit/GCW0_REminiscence) | Flashback Data Files, `~/.REminiscence/data/`
 Rise of the Triad* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/rott.opk) | [Inactive Fork](https://github.com/podulator/RoTT) | Rise of the Triad: The Dark War (Registered Version) Data Files, `~/.rott/data/`
 Rockbot | [Latest](https://rockbot.upperland.net/?download=1.20.74%20OpenDingux) | [Inactive](https://github.com/protoman/rockbot) | No
