@@ -4,6 +4,8 @@
 
 These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed whenever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds, primarily the RG-350.
 
+All apps can be placed inside and ran from either the internal SD card in `/media/data/apps/`, or in the external card in `/media/sdcard/apps/`.
+
 Anything not found here could be alternatively located within these domains, however we like to keep the focus on the present.
 
 [GCW Zero Homepage](http://www.gcw-zero.com/downloads)
