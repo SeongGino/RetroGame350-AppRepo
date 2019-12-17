@@ -1,4 +1,4 @@
-# RG-350 & PocketGo 2 - Application Repo
+# RG-350 & Pocket Go 2 - Application Repo
 
 These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed wherever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds; primarily the Anbernic RG-350, but these are also known to work on the BittBoy Pocket Go 2/Miyoo Max.
 
@@ -99,7 +99,7 @@ PlayStation | PCSX4All-Gamebla's C++ (Faster?) | [Latest (2.4_2019-11-29)](https
 PlayStation | PCSX4All-soarqin's C (DualShock Compatible) | [2.4_2019-12-12](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/PCSX4All_2019-12-12.opk) | [Active Fork](https://github.com/soarqin/RG350_pcsx4all) | PlayStation BIOS, `~/.pcsx4all/bios/`
 Sega Master System, Game Gear | SMS Plus GX | [Latest (2019-11-29)](https://gameblabla.nl/files/ipk/gcw0/smsplus_gcw0.opk) | [Active](https://github.com/gameblabla/sms_sdl) | No
 Sega Genesis/Mega Drive, Master System, Game Gear, SG-1000 | Genesis Plus GX | [2016-02-29](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/GenesisPlusGX_2016-02-29.opk) | [Inactive](https://github.com/DavidKnight247/Genesis-Plus-GX) | No
-Sega Genesis/Mega Drive, CD, 32X, Master System | PicoDrive | [Latest (1.95_2019-12-11)](https://gameblabla.nl/files/ipk/gcw0/picodrive_gcw0.opk) | [Active](https://github.com/gameblabla/apparentlydoesntexist) | (Optional) Sega/Mega CD BIOS Images, `~/.picodrive/`
+Sega Genesis/Mega Drive, CD, 32X, Master System | PicoDrive | [Latest (1.95_2019-12-11)](https://gameblabla.nl/files/ipk/gcw0/picodrive_gcw0.opk) | Active (Source N/A) | (Optional) Sega/Mega CD BIOS Images, `~/.picodrive/`
 Super Nintendo Entertainment System (Fast, Low Accuracy) | PocketSNES | [2019-12-12](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/PocketSNES_2019-12-12.opk) | [Active](https://github.com/soarqin/PocketSNES) | No
 Super Nintendo Entertainment System (High Accuracy, Slow) | Snes9x | [2019-11-11](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/Snes9x_2019-11-11.opk) | [Active Fork](https://github.com/soarqin/snes9x) | No
 ZX Spectrum | Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/UnrealSpeccyPortable_2013-05-13.opk) | [Inactive](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) | No
