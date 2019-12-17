@@ -1,8 +1,6 @@
-# RG-350 & GCW Zero - Application Repo
+# RG-350 & PocketGo 2 - Application Repo
 
-(Temporary, still in the works, quite messy, etc.)
-
-These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed whenever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds, primarily the RG-350.
+These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed wherever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds, primarily the RG-350.
 
 All apps can be placed inside and ran from either the internal SD card in `/media/data/apps/`, or in the external card in `/media/sdcard/apps/`.
 
