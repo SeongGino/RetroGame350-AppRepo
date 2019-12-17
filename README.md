@@ -13,6 +13,7 @@ Anything not found here could be alternatively located within these domains, how
 | Name | OPK Link | Source | Requires Data Files? |
 |----------|:----:|:------:|---------------------:|
 Abuse* | [Latest](https://drive.google.com/open?id=1iILjTghcEt90zcsMCN10MChG0fFQCkTB) | Inactive (Source N/A) | No
+Arkanoid | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/Arkanoid.opk) | Inactive (Source N/A) | No
 Cannonball* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/cannonball.opk) | [Inactive](https://github.com/gameblabla/Cannonballs/raw/master/cannonball.opk) | OutRun (sitdown/upright, Rev B) Data Files (Unzipped), `~/.cannonball/roms/`
 Cannon Fodder | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/cannonfodder.opk) | Legacy (Source N/A) | No
 Chocolate Doom** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/chocolatedoom-selector.opk) | Inactive (Source N/A) | (Final) DOOM (2)/Heretic/Hexen/Strife Data Files
@@ -45,6 +46,7 @@ Sqrxz 3: Adventure for Love | [Final](https://github.com/SeongGino/RetroGame350-
 Sqrxz 4: Cold Cash | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/sqrxz4-v.latest-gcw-zero.opk) | Legacy | No
 Strange Adventure in Infinite Space | [Latest](https://drive.google.com/file/d/1YZFVwSeDw-kaic5O6X7FOLA-EBeOW1HI/view?usp=sharing) | Active (Source N/A) | No
 Streets of Rage Remake v5.1 | [Latest](https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU) | [Legacy](https://sega.com) | No
+SuperTux | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/supertux.opk) | [Inactive](https://github.com/dmitrysmagin/supertux)
 UMG-v0.4Demo | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/umg-gcw-exclusive-preview-0.4.opk) | [Legacy](http://artur-rojek.eu/umg.php) | No
 
 Index:
