@@ -22,7 +22,7 @@ eDuke32* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/maste
 FreeDink | [Latest](https://drive.google.com/open?id=1NvA25Y0_1Mdh-mzMjvGHMq0J_M3_Q9Jq) | [Inactive](https://www.gnu.org/software/freedink/) | No
 Ghouls'n Ghosts Remix | [Latest](http://prizma.bmstu.ru/~exmortis/opk/ggr_056.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/ghouls-and-ghosts-remix-0-56/) | No
 Hexen 2	- Hammer of Thyrion** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/hexen2.opk) | [Inactive](https://github.com/JohnnyonFlame/gcw0-hexen2) | Hexen II Data Files, `~/.hexen2/data1`
-KOF - Flames of Courage v5 | [Final](https://drive.google.com/open?id=1BtIlTPLAzYDJ4OWwVfdlndRGOWP81XDr) | [Inactive](https://github.com/gromv/kofv5) | No
+KOF - Flames of Courage v5 | [Final (Broken?)](https://drive.google.com/open?id=1BtIlTPLAzYDJ4OWwVfdlndRGOWP81XDr) | [Inactive](https://github.com/gromv/kofv5) | No
 Marathon* | [Latest](https://drive.google.com/open?id=147IPd5EKXRzdXOSbD7gSJCpgorC7ce4y) | Active (Source N/A) | No
 Marathon 2* | [Latest](https://drive.google.com/open?id=1bieRbLbcv8Dn3yKNflIZcfBkbfCfW7XU) | Active (Source N/A) | No
 Marathon Infinite* | [Latest](https://drive.google.com/open?id=1UayihX4pbpY0gyLC-dWnBuvGLNTQeFl9) | Active (Source N/A) | No
