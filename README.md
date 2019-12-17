@@ -20,6 +20,7 @@ DevilutionX | [Latest](https://github.com/glebm/devilutionX/releases/latest) | [
 ECWolf | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/ecwolf.opk) | [Inactive](https://github.com/JohnnyonFlame/ecwolf) | Wolfenstein 3D/Spear of Destiny Data Files, `~/.ecwolf/`
 eDuke32 | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/eduke32.opk) | [Inactive](https://github.com/zear/eduke32) | Duke Nukem 3D (Shareware/Registered/Plutonium Pak), `~/.eduke32/`
 FreeDink | [Latest](https://drive.google.com/open?id=1NvA25Y0_1Mdh-mzMjvGHMq0J_M3_Q9Jq) | [Inactive](https://www.gnu.org/software/freedink/) | No
+Ghouls'n Ghosts Remix | [Latest](http://prizma.bmstu.ru/~exmortis/opk/ggr_056.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/ghouls-and-ghosts-remix-0-56/) | No
 Hexen 2	- Hammer of Thyrion | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/hexen2.opk) | [Inactive](https://github.com/JohnnyonFlame/gcw0-hexen2) | Hexen II Data Files, `~/.hexen2/data1`
 KOF - Flames of Courage v5 |  | [Legacy](https://sites.google.com/site/egstudiogamesen/kof-flames-of-courage-v5) | No
 Marathon | [Latest](https://drive.google.com/open?id=147IPd5EKXRzdXOSbD7gSJCpgorC7ce4y) | Active (Source N/A) | No
@@ -52,8 +53,7 @@ UMG-v0.4Demo | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/m
 
 | Name | OPK Link | Source | Requires System Files? |
 |------|:--------:|:------:|-----------------------:|
-Atari 5200 & 8-bits |  | [Inactive](https://github.com/kerheol/dingux-atari) | Atari BIOS, `~/.atari/roms/`
-a5200 | [2013-06-15](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/a5200_2013-06-15.opk) | Inactive (Source N/A) | Atari 5200 BIOS, `~/5200.rom`
+a5200 | [2013-06-15](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/a5200_2013-06-15.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/a5200-v1-0/) | Atari 5200 BIOS, `~/5200.rom`
 ColecOD | [2013-06-15](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/ColecoD_2013-06-15.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/colecod-v1-0/) | No
 CrocoDS (Amstrad CPC) | [2019-11-23](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/CrocoDS_2019-11-26.opk) | [Active](https://www.kyuran.be/rg350/) | No
 Daphne | [2015-05-07](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/Daphne_2015-05-07.opk) | [Inactive](https://github.com/DavidKnight247/Daphne) | [Compatible Laserdisc Games](https://boards.dingoonity.org/gcw-releases/daphne/)
