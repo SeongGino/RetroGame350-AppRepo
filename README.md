@@ -81,8 +81,8 @@ VICE Launcher |  | [Inactive Fork](https://github.com/SeongGino/notexistingyet) 
 
 | Name | OPK Link | Source |
 |------|:--------:|-------:|
-350teric |  | [Active](https://github.com/podulator/esoteric/)
-SimpleMenu |  | [Active]
+350teric | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/654796376596545536/esoteric.opk) | [Active](https://github.com/podulator/esoteric/)
+SimpleMenu | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/653454972733751296/simplemenu.opk) | [Active](https://github.com/fgl82/simplemenu)
 
 ---
 
