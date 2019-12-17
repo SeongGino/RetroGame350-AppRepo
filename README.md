@@ -64,7 +64,7 @@ Index:
 a5200 | [2013-06-15-launcher](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/a5200_2013-06-15-launcher.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/a5200-v1-0/) | Atari 5200 BIOS, `~/5200.rom`
 ColecOD | [2013-06-15-launcher](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/ColecoD_2013-06-15-launcher.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/colecod-v1-0/) | No
 CrocoDS | [2019-11-23](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/CrocoDS_2019-11-26.opk) | [Active](https://www.kyuran.be/rg350/) | No
-Daphne | [2015-05-07](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/Daphne_2015-05-07.opk) | [Inactive](https://github.com/DavidKnight247/Daphne) | [Compatible Laserdisc Games](https://boards.dingoonity.org/gcw-releases/daphne/)
+Daphne | [2015-05-07](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/Daphne_2015-05-07.opk) | [Inactive](https://github.com/DavidKnight247/Daphne) | [Compatible Laserdisc Games (Tutorial Link)](https://boards.dingoonity.org/gcw-releases/daphne/)
 DCaSTaway* | [2014-11-09](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/DCaSTaway_2014-11-09.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/dcastaway-an-atari-st-emulator/) | Atari ST TOS ROM
 DOSBox v0.74 | [2019-11-11](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/DOSBox_2019-11-11.opk) | [Active Fork](https://github.com/soarqin/dosbox-rg350) | No
 FCEUX | [2019-11-15](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/FCEUX_2019-11-15.opk) | [Active Fork](https://github.com/soarqin/fceux-for-retrogame) | No
