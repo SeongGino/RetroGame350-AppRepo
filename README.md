@@ -61,13 +61,14 @@ Index:
 
 | Name | OPK Link | Source | Requires System Files? |
 |------|:--------:|:------:|-----------------------:|
-a5200 | [2013-06-15](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/a5200_2013-06-15.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/a5200-v1-0/) | Atari 5200 BIOS, `~/5200.rom`
-ColecOD | [2013-06-15](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/ColecoD_2013-06-15.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/colecod-v1-0/) | No
+a5200 | [2013-06-15](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/a5200_2013-06-15-launcher.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/a5200-v1-0/) | Atari 5200 BIOS, `~/5200.rom`
+ColecOD | [2013-06-15](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/ColecoD_2013-06-15-launcher.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/colecod-v1-0/) | No
 CrocoDS | [2019-11-23](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/CrocoDS_2019-11-26.opk) | [Active](https://www.kyuran.be/rg350/) | No
 Daphne | [2015-05-07](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/Daphne_2015-05-07.opk) | [Inactive](https://github.com/DavidKnight247/Daphne) | [Compatible Laserdisc Games](https://boards.dingoonity.org/gcw-releases/daphne/)
 DCaSTaway* | [2014-11-09](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/DCaSTaway_2014-11-09.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/dcastaway-an-atari-st-emulator/) | Atari ST TOS ROM
 DOSBox v0.74 | [2019-11-11](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/DOSBox_2019-11-11.opk) | [Active Fork](https://github.com/soarqin/dosbox-rg350) | No
 FCEUX | [2019-11-15](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/FCEUX_2019-11-15.opk) | [Active Fork](https://github.com/soarqin/fceux-for-retrogame) | No
+FinalBurnAlpha | [2019-11-26](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/FinalBurnAlpha_2019-11-26-launcher.opk) | [Active](https://github.com/tonyjih/fba-sdl) | Varies
 Gambatte | [2019-12-01](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/Gambatte_2019-12-01.opk) | [Active Fork](https://github.com/bardeci/dot-matrix-simulator) | No
 Genesis Plus GX | [2016-02-29](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/GenesisPlusGX_2016-02-29.opk) | [Inactive](https://github.com/DavidKnight247/Genesis-Plus-GX) | No
 Handy | [2019-12-10](https://gameblabla.nl/files/ipk/gcw0/handy_gcw0.opk) | [Active](https://github.com/gameblabla/handy-rs97) | No
@@ -81,7 +82,7 @@ PCSX4All-Gamebla's C++ | [2.4_2019-11-29](https://gameblabla.nl/files/ipk/gcw0/p
 PCSX4All-soarqin's C | [2.4_2019-12-12](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/PCSX4All_2019-12-12.opk) | [Active Fork](https://github.com/soarqin/RG350_pcsx4all) | PlayStation BIOS, `~/.pcsx4all/bios/`
 PicoDrive | [1.95_2019-12-11](https://gameblabla.nl/files/ipk/gcw0/picodrive_gcw0.opk) | [Active](https://github.com/gameblabla/apparentlydoesntexist) | (Optional) Sega/Mega CD BIOS Images, `~/.picodrive/`
 PocketSNES | [2019-12-12](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/PocketSNES_2019-12-12.opk) | [Active](https://github.com/soarqin/PocketSNES) | No
-ProSystem | [2013-06-16](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/ProSystem_2013-06-16.opk) | [Inactive](https://github.com/alekmaul/prosystem) | No
+ProSystem | [2013-06-16](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/ProSystem_2013-06-16-launcher.opk) | [Inactive](https://github.com/alekmaul/prosystem) | No
 ReGBA | [Original_2014-08-21](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/ReGBA_2014-08-21.opk), [Latest_2019-10-21](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/ReGBA_2019-10-21.opk) | [Active Fork](https://github.com/soarqin/ReGBA) | (Optional) Game Boy Advance BIOS, `~/.gpsp/gba_bios.bin`
 ScummVM*	| [Latest](https://github.com/jbanes/scummvm/releases) | [Active Fork](https://github.com/jbanes/scummvm) | No
 SMS Plus GX | [2019-11-29](https://gameblabla.nl/files/ipk/gcw0/smsplus_gcw0.opk) | [Active](https://github.com/gameblabla/sms_sdl) | No
@@ -92,6 +93,7 @@ UAE4All* | [2014-12-02](https://github.com/SeongGino/RetroGame350-AppRepo/blob/m
 Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/UnrealSpeccyPortable_2013-05-13.opk) | [Inactive](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) | No
 VICE* | [2019-12-11](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/VICE-C64_2019-12-11.opk) | [Legacy](https://boards.dingoonity.org/gcw-zero-emulation/(testing)-vice-2-3/) | No
 VICE (Launcher Mod)** | [2019-12-11](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/VICEstandalone_2019-12-xx.zip) | [Inactive Fork](https://github.com/SeongGino/notexistingyet) | VICE Data Folder, `/usr/local/share/VICE`
+XMAME (Installer) | [2015-03-15](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Emulators/XMAME_2015-03-15.opk) | [Inactive](http://www.slaanesh.net/2014/12/xmame-v10-for-gcw-zero.html) | Varies, Internal: `/usr/local/share/xmame/xmame52 OR xmame69 OR xmame84/roms`, External: `/media/sdcard/apps/xmame/xmame52 OR xmame69 OR xmame84/roms`
 
 ### Index:
 
