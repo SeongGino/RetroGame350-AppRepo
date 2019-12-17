@@ -24,7 +24,7 @@ Hexen 2	- Hammer of Thyrion | [Latest](https://github.com/SeongGino/RetroGame350
 KOF - Flames of Courage v5 |  | [Legacy](https://sites.google.com/site/egstudiogamesen/kof-flames-of-courage-v5) | No
 Marathon | [Latest](https://drive.google.com/open?id=147IPd5EKXRzdXOSbD7gSJCpgorC7ce4y) | Active (Source N/A) | No
 Marathon 2 | [Latest](https://drive.google.com/open?id=1bieRbLbcv8Dn3yKNflIZcfBkbfCfW7XU) | Active (Source N/A) | No
-Marathon Infinite | [Latest](https://drive.google.com/open?id=1UayihX4pbpY0gyLC-dWnBuvGLNTQeFl9) | No
+Marathon Infinite | [Latest](https://drive.google.com/open?id=1UayihX4pbpY0gyLC-dWnBuvGLNTQeFl9) | Active (Source N/A) | No
 NXEngine | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/CaveStory.opk) | Inactive | No
 Odamex | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/odamex.opk) | [Inactive](https://github.com/JohnnyonFlame/odamex) | (Final) DOOM (2) Data Files
 OpenBOR | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/OpenBOR_3.0_r4165_GCW0_Edition.opk) | [Inactive](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) | OpenBOR Game Pak Files, `~/.openbor/`
