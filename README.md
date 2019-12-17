@@ -12,7 +12,7 @@ Anything not found here could be alternatively located within these domains, how
 
 | Name | OPK Link | Source | Requires Data Files? |
 |----------|:----:|:------:|---------------------:|
-Abuse |  | Inactive | No
+Abuse | [Latest](https://drive.google.com/open?id=1iILjTghcEt90zcsMCN10MChG0fFQCkTB) | Inactive | No
 Cannonball |  | [Inactive](https://github.com/gameblabla/Cannonballs/raw/master/cannonball.opk) | OutRun (sitdown/upright, Rev B) Data Files (Unzipped), `~/.cannonball/roms/`
 Cannon Fodder |  | Legacy | No
 Chocolate Doom |  | Inactive | (Final) DOOM (2)/Heretic/Hexen/Strife Data Files
