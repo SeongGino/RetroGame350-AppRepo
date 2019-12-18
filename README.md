@@ -19,6 +19,7 @@ Arkanoid | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/maste
 Cannonball* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/cannonball.opk) | [Inactive](https://github.com/gameblabla/Cannonballs/raw/master/cannonball.opk) | OutRun (sitdown/upright, Rev B) Data Files (Unzipped), `~/.cannonball/roms/`
 Cannon Fodder | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/cannonfodder.opk) | Legacy (Source N/A) | No
 Chocolate Doom** *** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/chocolatedoom-selector.opk) | Inactive (Source N/A) | (Final) DOOM (2)/Heretic/Hexen/Strife Data Files
+Descent 2 (d2x)* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/d2x-rebirth.opk) | [Legacy](https://boards.dingoonity.org/gcw-general/looking-for-working-descent-2-opk/) | (Optional) Descent 2 Data Files, `~/.d2x-rebirth/`, will fallback to built-in Shareware if not found.
 DevilutionX* | [Latest](https://github.com/glebm/devilutionX/releases/latest) | [Active Fork](https://github.com/glebm/devilutionX) | Diablo 1.09b Data File, `~/.local/share/diasurgical/diablo/diabdat.mpq`
 ECWolf* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/ecwolf.opk) | [Inactive](https://github.com/JohnnyonFlame/ecwolf) | Wolfenstein 3D/Spear of Destiny Data Files, `~/.ecwolf/`
 eDuke32* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/eduke32.opk) | [Inactive](https://github.com/zear/eduke32) | Duke Nukem 3D (Shareware/Registered/Plutonium Pak), `~/.eduke32/`
@@ -58,9 +59,9 @@ UMG-v0.4Demo | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/m
 
 Index:
 
-*:Accepts all RG350 inputs (dual sticks, secondary triggers and stick clicks)
+*:Accepts all RG350/PG2 inputs (dual sticks, secondary triggers and stick clicks)
 
-**:Accepts all RG350 inputs, but in a limited capacity (i.e. can only use one joystick, doesn't register stick clicks, etc.)
+**:Accepts most RG350/PG2 inputs, but in a limited capacity (i.e. can only use one joystick, doesn't register stick clicks, etc.)
 
 ***:Uses frontend file explorer for input.
 
