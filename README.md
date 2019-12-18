@@ -112,22 +112,20 @@ ZX Spectrum | Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino
 
 **: Emulator uses its own frontend for setup, required to use system frontend launcher
 
-`/media/data/local/share/` when navigating from FTP, and `/usr/local/share/` when navigating from DinguxCommander on the device are the same target directory.
-
 ---
 
 ## Frontends
 
 | Name | OPK Link | Source |
 |------|:--------:|-------:|
-350teric | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/654796376596545536/esoteric.opk) | [Active](https://github.com/podulator/esoteric/)
+350teric (Formerly GMenuNX-Dingux Fork) | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/654796376596545536/esoteric.opk) | [Active](https://github.com/podulator/esoteric/)
 SimpleMenu | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/653454972733751296/simplemenu.opk) | [Active](https://github.com/fgl82/simplemenu)
 
 ### Index:
 
 350teric: Based on GMenu2x, similar to GMenuNX (RetroFW) with additions such as preview images, extended skin customization, etc.
 
-SimpleMenu: A new menu system with focus on usability and aesthetic/fucntional simplicity.
+SimpleMenu: A new menu system with focus on usability and aesthetic/functional simplicity.
 
 ---
 
