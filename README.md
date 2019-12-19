@@ -119,7 +119,7 @@ ZX Spectrum | Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino
 
 | Name | OPK Link | Source |
 |------|:--------:|-------:|
-350teric (Formerly GMenuNX-Dingux Fork) | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/654796376596545536/esoteric.opk) | [Active](https://github.com/podulator/esoteric/)
+350teric (Formerly GMenuNX-Dingux Fork) | [Latest](https://github.com/podulator/esoteric/releases/latest) | [Active](https://github.com/podulator/esoteric/)
 SimpleMenu | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/653454972733751296/simplemenu.opk) | [Active](https://github.com/fgl82/simplemenu)
 
 ### Index:
@@ -138,4 +138,5 @@ Bard Storyteller (Ebooks) | [Latest](https://github.com/SeongGino/RetroGame350-A
 FFPlay | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Applications/ffplay-gcw0.opk) | [Inactive](https://github.com/denis-n-kuznetsov/FFmpeg-GCW0)
 Glutext | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Applications/glutexto.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/glutexto-1-2/)
 GMU | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Applications/gmu-0.10.1-gcw0.opk) | [Inactive](https://github.com/denis-n-kuznetsov/gmu)
+Input Tester | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Applications/input-test.opk) | [Active](https://github.com/tonyjih/RG350_input-test)
 Oldplay | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Applications/oldplay_v135.zip) | [Legacy](https://boards.dingoonity.org/gcw-releases/oldplay-for-opendingux/)
