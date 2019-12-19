@@ -82,7 +82,8 @@ Atari 5200 | a5200 | [2013-06-15-launcher](https://github.com/SeongGino/RetroGam
 Atari 7800 | ProSystem | [2013-06-16-launcher](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/ProSystem_2013-06-16-launcher.opk) | [Inactive](https://github.com/alekmaul/prosystem) | No
 Atari Lynx | Handy | [Latest (2019-12-10)](https://gameblabla.nl/files/ipk/gcw0/handy_gcw0.opk) | [Active](https://github.com/gameblabla/handy-rs97) | No
 Atari ST | DCaSTaway* | [2014-11-09](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/DCaSTaway_2014-11-09.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/dcastaway-an-atari-st-emulator/) | Atari ST TOS ROM
-Bandai Wonderswan (B/W, Color) | Oswan | [2017-09-08](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Oswan_2017-09-08.opk) | ['Soon to be replaced'](https://github.com/gameblabla/oswan) | No
+Bandai Wonderswan (B/W, Color) [OLD] | Oswan | [2017-09-08](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Oswan_2017-09-08.opk) | ['Soon to be replaced'](https://github.com/gameblabla/oswan) | No
+Bandai Wonderswan (B/W, Color) [NEW] | SwanEmu | [Latest](https://gameblabla.nl/files/ipk/gcw0/swanemu_gcw0.opk) | Active (Source N/A) | No
 Colecovision | ColecOD | [2013-06-15-launcher](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/ColecoD_2013-06-15-launcher.opk) | [Inactive](https://boards.dingoonity.org/gcw-releases/colecod-v1-0/) | No
 Intellivision | JzIntv | [2015-03-28](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/jzIntv_2015-03-28.opk) | [Inactive](https://github.com/DavidKnight247/jzIntv) | No
 Commodore 64 | VICE* | [2019-12-11](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/VICE-C64_2019-12-11.opk) | [Legacy](https://boards.dingoonity.org/gcw-zero-emulation/(testing)-vice-2-3/) | No
