@@ -130,7 +130,7 @@ SimpleMenu | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/
 
 ### Index:
 
-350teric (Pronounced "Esoteric"): Based on GMenu2x, similar to GMenuNX (RetroFW) with additions such as preview images, extended skin customization, etc.
+350teric (Pronounced "Esoteric"): Based on GMenu2x, similar to GMenuNX (RetroFW) with additions such as preview images, extended skin customization, etc. [Example repos](https://github.com/m1024x/retrogame-skin-pack) [that demonstrate](https://github.com/SeongGino/LegieUI-NX) [the added possibilities.](https://github.com/SeongGino/SymphieUI-NX)
 
 SimpleMenu: A new menu system with focus on usability and aesthetic/functional simplicity.
 
