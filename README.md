@@ -1,12 +1,12 @@
 # RG-350 & Pocket Go 2 - Application Repo
 
-These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed wherever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds; primarily the Anbernic RG-350, but these are also known to work on the BittBoy Pocket Go 2.
+These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed wherever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds; primarily the Anbernic RG-350, but these are also known to work on the BittBoy Pocket Go 2. **Do note, however, that the Game Kiddy 350H - another handheld known to run OpenDingux - is known to have compatibility issues with many software that use IPU scaling or GPU functions.**
 
 All apps can be placed inside and ran from either the internal SD card in `/media/data/apps/`, or in the external card in `/media/sdcard/apps/`.
 
 `/media/data/local/share/` and `/usr/local/share/` are the same target directory. If you're using the RG-350, it's recommended to use FTP. The Pocket Go 2 is known to lack the necessary functioning device drivers to have working FTP, so you'll have better luck copying files through the built-in `Dingux Commander` utility.
 
-Many would recommend that you use the latest available firmware. If you encounter any issues, make sure to refer to the official documentation for the latest firmware and basic instructions:
+Many would recommend that you use the latest available firmware. If you encounter any issues, make sure to refer to the official documentation for the latest firmware and basic instructions respective to your device:
 
 * [Anbernic RG-350](https://github.com/retrogamehandheld/RG-350/wiki/Firmware-and-Software-Updates)
 
