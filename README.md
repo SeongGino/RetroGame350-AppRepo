@@ -31,7 +31,7 @@ Ghouls'n Ghosts Remix | [Latest](http://prizma.bmstu.ru/~exmortis/opk/ggr_056.op
 Hase | [Latest](https://drive.google.com/open?id=1jm7_GPV_jlY9eMq1aZCq72HHMINOriiu) | [Active](https://github.com/theZiz/hase) | No
 Hexen 2	- Hammer of Thyrion** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/hexen2.opk) | [Inactive](https://github.com/JohnnyonFlame/gcw0-hexen2) | Hexen II Data Files, `~/.hexen2/data1`
 Hocoslamfy | [Latest](https://github.com/fgl82/hocoslamfy/releases/latest) | [Active](https://github.com/fgl82/hocoslamfy) | No
-KOF - Flames of Courage v5 | [Final (Broken?)](https://drive.google.com/open?id=1BtIlTPLAzYDJ4OWwVfdlndRGOWP81XDr) | [Inactive](https://github.com/gromv/kofv5) | No
+KOF - Flames of Courage v5 | [Final](https://drive.google.com/open?id=1HlGJIwxKIPYay5vPuiZ89_Kh_cgyytGh) | [Inactive](https://github.com/gromv/kofv5) | No
 Marathon* | [Latest](https://drive.google.com/open?id=147IPd5EKXRzdXOSbD7gSJCpgorC7ce4y) | Active (Source N/A) | No
 Marathon 2* | [Latest](https://drive.google.com/open?id=1bieRbLbcv8Dn3yKNflIZcfBkbfCfW7XU) | Active (Source N/A) | No
 Marathon Infinite* | [Latest](https://drive.google.com/open?id=1UayihX4pbpY0gyLC-dWnBuvGLNTQeFl9) | Active (Source N/A) | No
@@ -46,6 +46,8 @@ OpenSonic | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/maste
 OpenTyrian** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/opentyrian_r1055.opk) | [Inactive](https://github.com/JohnnyonFlame/OpenTyrian) | No
 POWDER | [Latest_v117](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/powder_117.opk) | Legacy (Source N/A) | No
 Puzzletube | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/puzzletube.opk) | [Inactive](https://github.com/theZiz/puzzletube) | No
+Quake GLES** | [Latest](https://github.com/thenesis-org/lp-public/releases/tag/v1.1) | [Inactive](https://github.com/thenesis-org/lp-public/tree/master/Ports/Quake1) | Quake (& Mission Pack 1/2) Data Files, `~/.local/share/Thenesis/Quake1/`
+Quake 2 GLES** | [Latest](https://github.com/thenesis-org/lp-public/releases/tag/v1.1) | [Inactive](https://github.com/thenesis-org/lp-public/tree/master/Ports/Quake2) | Quake 2 (& Mission Pack 1/2/3/CTF) Data Files, `~/.local/share/Thenesis/Quake2/`
 Quartermaster | [Latest](https://github.com/hi-ban/quartermaster/releases/latest) | [Active](https://github.com/hi-ban/quartermaster) | No
 REminiscence | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/REminiscence.opk) | [Inactive](https://github.com/ElwingGit/GCW0_REminiscence) | Flashback Data Files, `~/.REminiscence/data/`
 Rise of the Triad* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/rott.opk) | [Inactive Fork](https://github.com/podulator/RoTT) | Rise of the Triad: The Dark War (Registered Version) Data Files, `~/.rott/data/`
