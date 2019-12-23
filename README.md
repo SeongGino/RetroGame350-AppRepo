@@ -82,7 +82,7 @@ Unless specified, emulators use the frontend's file explorer for ROM files, or h
 
 | Emulated System(s) | Name | OPK Link | Source | Requires System Files? |
 |--------------------|:------:|:--------:|:------:|-----------------------:|
-3DO | 3Doh | [Latest](https://github.com/gameblabla/3doh_gcw0/releases/latest) | [Inactive](https://github.com/gameblabla/3doh_gcw0) | 3DO BIOS, `/media/data/local/home/.3doh/bios.bin`
+3DO | 3Doh | [Latest](https://github.com/gameblabla/3doh_gcw0/raw/master/3doh.opk) | [Inactive](https://github.com/gameblabla/3doh_gcw0) | 3DO BIOS, `/media/data/local/home/.3doh/bios.bin`
 Amstrad CPC | CrocoDS | [2019-11-23](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/CrocoDS_2019-11-26.opk) | [Active](https://www.kyuran.be/rg350/) | No
 Arcade - FBA (0.2.97.35) | FinalBurnAlpha | [2019-11-26-rotation+launcher](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/FinalBurnAlpha_2019-11-26-launcher.opk) | [Active](https://github.com/tonyjih/fba-sdl) | Varies, use `FBA - Setup` to set ROM paths using app interface.
 Arcade - Laserdisc) | Daphne | [2015-05-07](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Daphne_2015-05-07.opk) | [Inactive](https://github.com/DavidKnight247/Daphne) | [Compatible Laserdisc Games (Tutorial Link)](https://boards.dingoonity.org/gcw-releases/daphne/)
