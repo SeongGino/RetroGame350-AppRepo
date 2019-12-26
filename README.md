@@ -139,11 +139,14 @@ ZX Spectrum | Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino
 | Name | OPK Link | Source |
 |------|:--------:|-------:|
 350teric (Formerly GMenuNX-Dingux Fork) | [Latest](https://github.com/podulator/esoteric/releases/latest) | [Active](https://github.com/podulator/esoteric/)
+EmulationStation (UNSTABLE) | [Latest](https://github.com/ManuelSch81/RG350-EmulationStation_configured/raw/master/Internal%20SD%20Card/emulationstation.opk) | [Latest](https://github.com/ManuelSch81/RG350-EmulationStation_configured)
 SimpleMenu | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/653454972733751296/simplemenu.opk) | [Active](https://github.com/fgl82/simplemenu)
 
 ### Index:
 
 350teric (Pronounced "Esoteric"): Based on GMenu2x, similar to GMenuNX (RetroFW) with additions such as preview images, extended skin customization, etc. [Example repos](https://github.com/m1024x/retrogame-skin-pack) [that demonstrate](https://github.com/SeongGino/LegieUI-NX) [the added possibilities.](https://github.com/SeongGino/SymphieUI-NX)
+
+EmulationStation: A port of [the PC frontend](https://emulationstation.org/index.html) - is known to not support many pre-existing themes, requires pre-configuration for specific emulators, and is generally not as plug-n-play friendly as GMenu or SimpleMenu. Is a work-in-progress.
 
 SimpleMenu: A new menu system with focus on usability and aesthetic/functional simplicity.
 
