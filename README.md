@@ -95,6 +95,7 @@ Unless specified, emulators use the frontend's file explorer for ROM files, or h
 
 | Emulated System(s) | Name | OPK Link | Source | Requires System Files? |
 |--------------------|:------:|:--------:|:------:|-----------------------:|
+[RetroArch](https://www.retroarch.com/) | RetroArch (WIP) | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/663073835880284171/retroarch.opk) | Upstream (TBA) | [Varies](https://docs.libretro.com/)
 3DO | 3Doh | [Latest](https://github.com/gameblabla/3doh_gcw0/raw/master/3doh.opk) | [Inactive](https://github.com/gameblabla/3doh_gcw0) | 3DO BIOS, `/media/data/local/home/.3doh/bios.bin`
 Amstrad CPC | CrocoDS | [2019-11-23](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/CrocoDS_2019-11-26.opk) | [Active](https://www.kyuran.be/rg350/) | No
 Arcade - FBA (0.2.97.44) | FinalBurnAlpha | [2019-12-26](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/FinalBurnAlpha_2019-12-26-alias.opk) | [Active](https://github.com/soarqin/fba-sdl) | Varies
