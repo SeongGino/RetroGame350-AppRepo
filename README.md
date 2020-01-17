@@ -66,20 +66,25 @@ Rock Rain 2 | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/mas
 rRootage | [Latest](https://github.com/jamesofarrell/rRootage-for-Handhelds/releases/latest) | [Active](https://github.com/jamesofarrell/rRootage-for-Handhelds) | No
 SDLQuake2* | [Latest](https://drive.google.com/open?id=1JZ17OhATuBklEUP5NQ73bVLEv_MmpDj3) | [Inactive Fork](https://github.com/jamesofarrell/SDLQuake2) | Quake II (Shareware/Registered) Data Files, `~/.quake2/baseq2`
 Shadow Warrior* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/shadow-warior.opk) | [Inactive Fork](https://github.com/JohnnyonFlame/gcw0-jfsw) | Shadow Warrior (Shareware/Registered) Data Files, `~/.jfsw/sw.grp`
+SkiFree! | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/skifree_v7.opk) | Active (Source N/A) | No
 Snowman | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/snowman.opk) | [Inactive](https://github.com/theZiz/snowman) | No
 Sonic Robo Blast 2* | [2.1.15](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8) | [Inactive Fork](https://github.com/gameblabla/srb2-gcw) | No
 Sonic Robo Blast 2 Kart* | [Latest](https://gameblabla.nl/files/ipk/gcw0/srb2kart.opk) | [Active](https://github.com/gameblabla/Kart-Public) | No
+Sopwith | [Latest](https://github.com/jamesofarrell/sopwith/releases/latest) | [Active](https://github.com/jamesofarrell/sopwith) | No
 Sqrxz (Remake) | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/sqrxz-v.latest-gcw-zero.opk) | Legacy | No
 Sqrxz 2: Two seconds 'til death | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/sqrxz2-v.latest-gcw-zero.opk) | Legacy | No
 Sqrxz 3: Adventure for Love | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/sqrxz3-v.latest-gcw-zero.opk) | Legacy | No
 Sqrxz 4: Cold Cash | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/sqrxz4-v.latest-gcw-zero.opk) | Legacy | No
-Strange Adventure in Infinite Space | [Latest](https://drive.google.com/file/d/1YZFVwSeDw-kaic5O6X7FOLA-EBeOW1HI/view?usp=sharing) | Active (Source N/A) | No
+Strange Adventure in Infinite Space | [Latest](https://drive.google.com/file/d/1YZFVwSeDw-kaic5O6X7FOLA-EBeOW1HI/view?usp=sharing) | [Inactive](https://github.com/ptitSeb/sais) | No
 Streets of Rage Remake v5.1 | [Latest](https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU) | [Legacy](https://sega.com) | No (Recommended to set `Video Options -> Shadows` from `Reflected` to `SOR` type to mitigate crashes.)
 Super Mario War | [Latest](https://gameblabla.nl/files/ipk/gcw0/smw_gcw0.opk) | Active (Source N/A) | No
 SuperTux | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/supertux.opk) | [Inactive](https://github.com/dmitrysmagin/supertux) | No
+Tron-clone | [Latest](https://github.com/jamesofarrell/tron-clone/releases/latest) | [Active](https://github.com/jamesofarrell/tron-clone) | No (Multiplayer Only)
 UMG-v0.4Demo | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/umg-gcw-exclusive-preview-0.4.opk) | [Legacy](http://artur-rojek.eu/umg.php) | No
 Ur-Quam Masters (Star Control 2) | [Latest](https://drive.google.com/open?id=16WiQ6Pgfoxi3NJ-veFh95_gwd5MgsCJv) | Legacy (Source N/A) | No
 VVVVVV | [Latest](https://drive.google.com/file/d/1kRa6Hcd9jCXjiDD1_DBCLALPYDhbQ5dJ/view) | Active (Source N/A) | VVVVVV Data Archive, `~/.local/share/VVVVVV/data.zip`
+xRick | [Latest](https://github.com/jamesofarrell/miyoo_xrick/releases/latest) | [Active](https://github.com/jamesofarrell/miyoo_xrick) | No
+Zatackax | [Latest](https://github.com/jamesofarrell/zatackax/releases/latest) | [Active](https://github.com/jamesofarrell/zatackax) | No
 
 Index:
 
@@ -170,6 +175,7 @@ Glutext | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/
 GMU | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/gmu-0.10.1-gcw0.opk) | [Inactive](https://github.com/denis-n-kuznetsov/gmu)
 Input Tester | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/input-test.opk) | [Active](https://github.com/tonyjih/RG350_input-test)
 Oldplay | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/oldplay_v135.zip) | [Legacy (Archive)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/SourceArchives/oldplay_v135_src.zip)
+Simple Terminal Emulator | [Latest](https://github.com/jamesofarrell/st-sdl/releases/latest) | [Active](https://github.com/jamesofarrell/st-sdl)
 
 ---
 
