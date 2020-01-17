@@ -148,7 +148,7 @@ ZX Spectrum | Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino
 |------|:--------:|-------:|
 350teric (Formerly GMenuNX-Dingux Fork) | [Latest](https://github.com/podulator/esoteric/releases/latest) | [Active](https://github.com/podulator/esoteric/)
 EmulationStation (UNSTABLE) | [Latest](https://github.com/ManuelSch81/RG350-EmulationStation_configured/raw/master/Internal%20SD%20Card/emulationstation.opk) | [Latest](https://github.com/ManuelSch81/RG350-EmulationStation_configured)
-SimpleMenu | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/666104264506212362/simplemenu) | [Active](https://github.com/fgl82/simplemenu)
+SimpleMenu | [Latest](https://github.com/fgl82/simplemenu/releases/latest) | [Active](https://github.com/fgl82/simplemenu)
 
 ### Index:
 
