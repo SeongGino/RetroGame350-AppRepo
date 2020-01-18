@@ -135,7 +135,7 @@ PICO-8 | Retro8 | [Latest](https://github.com/Jakz/retro8/releases/latest) | [Ac
 Sega Master System, Game Gear | SMS Plus GX | [Latest](https://gameblabla.nl/files/ipk/gcw0/smsplus_gcw0.opk) | [Active](https://github.com/gameblabla/sms_sdl) | No
 Sega Genesis/Mega Drive, CD, Master System, Game Gear, SG-1000 | Genesis Plus GX | [2019-12-23](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/GenesisPlusGX_2019-12-23.opk) | [Active](https://github.com/Derynect/Genesis-Plus-GX) | (Optional) Sega/Mega CD BIOS Images, `bios_CD_U.bin` `bios_CD_J.bin` `bios_CD_E.bin`: `~/.genplus/bios/`
 Sega Genesis/Mega Drive, CD, 32X, Master System | PicoDrive | [Latest](https://gameblabla.nl/files/ipk/gcw0/picodrive_gcw0.opk) | Active (Source N/A) | (Optional) Sega/Mega CD BIOS Images, `~/.picodrive/`
-SNK Neo-Geo CD | NEO4All* | [2019-12-16](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/NEO4All_2019-12-16.opk) | [Active...?](http://toro.2ch.sc/test/read.cgi/gsaloon/1572848152/) | Neo-Geo CD BIOS, `~/.neo4all/neocd.bin`, Neo-Geo CD games in `.cue`+`.img`+`.sub` format in `~/.neo4all/roms`
+SNK Neo-Geo CD | NEO4All* | [2019-12-16](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/NEO4All_2019-12-16.opk) | [Active Fork...? (Source N/A)](http://toro.2ch.sc/test/read.cgi/gsaloon/1572848152/) | Neo-Geo CD BIOS, `~/.neo4all/neocd.bin`, Neo-Geo CD games in `.cue`+`.img`+`.sub` format in `~/.neo4all/roms`
 SNK Neo-Geo Pocket (B/W, Color) | NGPCEmu	| [Latest](https://gameblabla.nl/files/ipk/gcw0/ngpcemu_gcw0.opk) | [Active](https://github.com/gameblabla/NGPCemu) | No
 Sony PlayStation | PCSX4All-Gameblabla's C++ | [Latest](https://gameblabla.nl/files/ipk/gcw0/pcsx4all_rg350.opk) | [Active Fork](https://github.com/gameblabla/pcsx4all_rs97_rg350) | PlayStation BIOS, `~/.pcsx4all/bios/`
 Sony PlayStation | PCSX4All-soarqin's C (Based on Stock) | [2.4_2019-12-12](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/PCSX4All_2019-12-12.opk) | [Active Fork](https://github.com/soarqin/RG350_pcsx4all) | PlayStation BIOS, `~/.pcsx4all/bios/`
@@ -174,7 +174,7 @@ SimpleMenu: A new menu system with focus on usability and aesthetic/functional s
 | Name | OPK Link | Source |
 |------|:--------:|-------:|
 Bard Storyteller (Ebooks) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/Bard_0.10.0.opk) | [Legacy (Archive)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/SourceArchives/bard-0.10.0-release.tar.bz2)
-Dingux Commander KAI (WIP) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/dinguxcmd_kai-20191230.opk) | [Active (Source N/A)](http://toro.2ch.sc/test/read.cgi/gsaloon/1572848152/)
+Dingux Commander KAI (WIP) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/dinguxcmd_kai-20191230.opk) | [Active Fork...? (Source N/A)](http://toro.2ch.sc/test/read.cgi/gsaloon/1572848152/)
 FFPlay | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/ffplay-gcw0.opk) | [Inactive](https://github.com/denis-n-kuznetsov/FFmpeg-GCW0)
 Glutext | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/glutexto.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/glutexto-1-2/)
 GMU | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/gmu-0.10.1-gcw0.opk) | [Inactive](https://github.com/denis-n-kuznetsov/gmu)
