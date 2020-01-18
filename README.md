@@ -1,16 +1,18 @@
-# RG-350 & Pocket Go 2 - Application Repo
+# OpenDingux Application Repo
 
-These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed wherever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds; primarily the Anbernic RG-350, but these are also known to work on the BittBoy Pocket Go 2. **Do note, however, that the Game Kiddy 350H - another handheld known to run OpenDingux - is known to have compatibility issues with many software that use IPU scaling or GPU functions.**
+These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed wherever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds; primarily the Anbernic RG-350, but these are also known to work on the BittBoy Pocket Go 2, and may also retain compatibility with the GCW Zero. **Do note, however, that the Game Kiddy 350H - another handheld that runs OpenDingux - is known to have compatibility issues with many software that use IPU scaling or GPU functions.**
 
 All apps can be placed inside and ran from either the internal SD card in `/media/data/apps/`, or in the external card in `/media/sdcard/apps/`.
 
-`/media/data/local/share/` and `/usr/local/share/` are the same target directory. If you're using the RG-350, it's recommended to use FTP. The Pocket Go 2 is known to lack the necessary functioning device drivers to have working FTP, so you'll have better luck copying files through the built-in `Dingux Commander` utility.
+`/media/data/local/share/` and `/usr/local/share/` are the same target directory. If you're using the RG-350, it's recommended to use FTP. The Pocket Go 2 is known to lack the necessary functioning device drivers to have working FTP, so you'll have better luck copying files between cards through the built-in `Dingux Commander` utility.
 
-Many would recommend that you use the latest available firmware. If you encounter any issues, make sure to refer to the official documentation for the latest firmware and basic instructions respective to your device:
+Many would recommend that you use the latest available stable firmware for your device. If you encounter any issues, make sure to refer to the official documentation for the latest firmware and basic instructions respective to your device:
 
 * [Anbernic RG-350](https://github.com/retrogamehandheld/RG-350/wiki/Firmware-and-Software-Updates)
 
 * [Bittboy Pocket Go 2](https://github.com/retrogamehandheld/PocketGo2/wiki/Firmware-and-software-updates)
+
+* [GCW Zero](http://www.gcw-zero.com/updates)
 
 ## Games & Ports
 
@@ -142,7 +144,7 @@ ZX Spectrum | Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino
 
 ### Index:
 
-*: Emulator uses its own frontend for setup and/or selection
+*: Emulator uses its own frontend for basic usage and setup
 
 **: Emulator uses its own frontend for setup, required to use system frontend launcher
 
@@ -185,3 +187,7 @@ Simple Terminal Emulator | [Latest](https://github.com/jamesofarrell/st-sdl/rele
 | Name | Source |
 |------|-------:|
 Sparrow3D | [Source](https://github.com/theZiz/sparrow3d)
+
+---
+
+I'd appreciate it if we *didn't* fork, kthx? Let's prevent confusion for new users as much as we can, and contribute to one central repo.
