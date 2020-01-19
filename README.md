@@ -177,7 +177,7 @@ SimpleMenu: A new menu system with focus on usability and aesthetic/functional s
 | Name | OPK Link | Source |
 |------|:--------:|-------:|
 Bard Storyteller (Ebooks) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/Bard_0.10.0.opk) | [Legacy (Archive)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/SourceArchives/bard-0.10.0-release.tar.bz2)
-Dingux Commander KAI (WIP) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/dinguxcmd_kai-20200120.opk) | [Active Fork (2020-01-20-Archive)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/SourceArchives/dinguxcmd_kai-src_20200120.zip)
+Dingux Commander KAI (WIP) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/dinguxcmd_kai-20200120.opk) | [Active Fork (2020-01-20-Archive)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/SourceArchives/dinguxCommander_Kai-src_20200120.zip)
 FFPlay | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/ffplay-gcw0.opk) | [Inactive](https://github.com/denis-n-kuznetsov/FFmpeg-GCW0)
 Glutext | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/glutexto.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/glutexto-1-2/)
 GMU | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/gmu-0.10.1-gcw0.opk) | [Inactive](https://github.com/denis-n-kuznetsov/gmu)
