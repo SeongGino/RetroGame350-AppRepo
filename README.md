@@ -103,6 +103,8 @@ Index:
 
 Unless specified, emulators use the frontend's file explorer for ROM files, or have been modified to do so.
 
+Most emulators will use the Power (I/O) button for a menu toggle; otherwise, it's Start + Select, or in some cases, simply Select. If an emulator has added support for the PocketGo 2, then it will use its Menu button as an alternative in some cases.
+
 | Emulated System(s) | Name | OPK Link | Source | Requires System Files? |
 |--------------------|:------:|:--------:|:------:|-----------------------:|
 [RetroArch](https://www.retroarch.com/) | RetroArch (WIP) | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/663939767943036938/retroarch.opk) | [Upstream](https://github.com/libretro/RetroArch) | [Varies](https://docs.libretro.com/)
