@@ -43,7 +43,7 @@ Heroes of Might & Magic 2 | [Latest](https://github.com/SeongGino/RetroGame350-A
 Hexen 2	- Hammer of Thyrion** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/hexen2.opk) | [Inactive](https://github.com/JohnnyonFlame/gcw0-hexen2) | Hexen II Data Files, `~/.hexen2/data1`
 Hocoslamfy | [Latest](https://github.com/fgl82/hocoslamfy/releases/latest) | [Active](https://github.com/fgl82/hocoslamfy) | No
 KOF - Flames of Courage v5 | [Final](https://drive.google.com/open?id=1HlGJIwxKIPYay5vPuiZ89_Kh_cgyytGh) | [Inactive](https://github.com/gromv/kofv5) | No
-Last Mission | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/last-mission.opk) [Inactive](https://github.com/dmitrysmagin/last-mission) | No
+Last Mission | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/last-mission.opk) | [Inactive](https://github.com/dmitrysmagin/last-mission) | No
 Marathon* | [Latest](https://drive.google.com/open?id=147IPd5EKXRzdXOSbD7gSJCpgorC7ce4y) | Active (Source N/A) | No
 Marathon 2* | [Latest](https://drive.google.com/open?id=1bieRbLbcv8Dn3yKNflIZcfBkbfCfW7XU) | Active (Source N/A) | No
 Marathon Infinite* | [Latest](https://drive.google.com/open?id=1UayihX4pbpY0gyLC-dWnBuvGLNTQeFl9) | Active (Source N/A) | No
