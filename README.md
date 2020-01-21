@@ -184,7 +184,7 @@ Glutext | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/
 GMU | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/gmu-0.10.1-gcw0.opk) | [Inactive](https://github.com/denis-n-kuznetsov/gmu)
 Input Tester | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/input-test.opk) | [Active](https://github.com/tonyjih/RG350_input-test)
 Oldplay | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/oldplay_v135.zip) | [Legacy (Archive)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/SourceArchives/oldplay_v135_src.zip)
-ROGUE RG350 Test | [1.2](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/rg350test.opk) | Active (Part of ROGUE CFW)
+ROGUE RG350 Test | [1.2](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/ROGUEtest_RG350.opk) | Active (Part of ROGUE CFW)
 Simple Terminal Emulator | [Latest](https://github.com/jamesofarrell/st-sdl/releases/latest) | [Active](https://github.com/jamesofarrell/st-sdl)
 
 ---
