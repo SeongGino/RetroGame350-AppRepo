@@ -21,6 +21,8 @@ Many would recommend that you use the latest available stable firmware for your 
 AAAA (Adamant Armor Affection Adventure) | [Latest](https://github.com/0x64c/aaaa-gcw0/releases/latest) | [Inactive](https://github.com/0x64c/aaaa-gcw0) | No
 Abuse* | [Latest](https://drive.google.com/open?id=1iILjTghcEt90zcsMCN10MChG0fFQCkTB) | Inactive (Source N/A) | No
 Arkanoid | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Arkanoid.opk) | Legacy (Source N/A) | No
+BlockRage | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Blockrage.opk) | Legacy (Source N/A) | No
+Bubble Bobble Remake | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Bubble%20Bobble%20Remake.opk) | Legacy (Source N/A) | No
 Cannonball* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cannonball.opk) | [Inactive](https://github.com/gameblabla/Cannonballs) | OutRun (sitdown/upright, Rev B) Data Files (Unzipped), `~/.cannonball/roms/`
 Cannon Fodder | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cannonfodder.opk) | Legacy (Source N/A) | No
 Cave Story (NXEngine) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/CaveStory.opk) | Inactive (Source N/A) | No
@@ -29,6 +31,7 @@ Chocolate Doom** *** | [Latest](https://github.com/SeongGino/RetroGame350-AppRep
 Descent 1 (d1x)** | [RetroFW ver.](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/d1x-rebirth.opk) | Inactive (Source N/A) | (Optional) Descent Data Files, `~/.d1x-rebirth/`, will fallback to built-in Shareware if not found.
 Descent 2 (d2x)* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/d2x-rebirth.opk) | [Legacy](https://boards.dingoonity.org/gcw-general/looking-for-working-descent-2-opk/) | (Optional) Descent 2 Data Files, `~/.d2x-rebirth/`, will fallback to built-in Shareware if not found.
 DevilutionX* | [Latest Development](https://github.com/glebm/devilutionX/releases/tag/0.5.0.350) [Latest Stable](https://github.com/diasurgical/devilutionX/releases) | [Active](https://github.com/glebm/devilutionX) [Upstream](https://github.com/diasurgical/devilutionX) | Diablo 1.09b Data File, `~/.local/share/diasurgical/diablo/diabdat.mpq`
+DIV Frogger | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/DIV%20Frogger.opk) | Legacy (Source N/A) | No
 EasyRPG Player | [Latest](https://gameblabla.nl/files/ipk/gcw0/EasyRPG_gcw0_rg350.opk) | Active (Source N/A) | RPG Maker 2000/2003 Games, RTP files go in `~/.easyrpg/{rtp2k OR rtp2k3}`
 ECWolf* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/ecwolf.opk) | [Inactive](https://github.com/JohnnyonFlame/ecwolf) | Wolfenstein 3D/Spear of Destiny Data Files, `~/.ecwolf/`
 eDuke32* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/eduke32.opk) | [Inactive](https://github.com/zear/eduke32) | [Fixed eDuke32.cfg configuration file for RG350](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/eduke32.cfg) + Duke Nukem 3D (Shareware/Registered/Plutonium Pak), `~/.eduke32/`
@@ -36,18 +39,24 @@ Fade to Black | [Gamebla's Latest](https://github.com/gameblabla/f2bgl/raw/maste
 Falling Time | [Latest](https://github.com/cxong/FallingTime/releases/download/1.0/falling_time.opk) | [Inactive](https://github.com/cxong/FallingTime) | No
 Finite | [Latest](https://github.com/jxv/finite/releases) | [Inactive](https://github.com/jxv/finite) | No
 FreeDink | [Latest](https://drive.google.com/open?id=1NvA25Y0_1Mdh-mzMjvGHMq0J_M3_Q9Jq) | [Inactive](https://www.gnu.org/software/freedink/) | No
+Ganbare, Natsuki-san! | [Latest](https://github.com/gameblabla/Ganbare-Natsuki-San/raw/master/gnp.opk) | [Inactive](https://github.com/gameblabla/Ganbare-Natsuki-San) | No
 Ghouls'n Ghosts Remix | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/GhoulsAndGhostsRemix-0.56-1.opk) | [Inactive](https://github.com/podulator/ggr_056) | No
+Gianna's Return | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Giana's%20Return.opk) | Legacy (Source N/A) | No
 Griffon Legend | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/griffon.opk) | [Inactive](https://github.com/dmitrysmagin/griffon_legend) | No
 Hase | [Latest](http://ziz.openhandhelds.org/hase/hase.opk) | [Active](https://github.com/theZiz/hase) | No
 Heroes of Might & Magic 2 | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/fheroes2.opk) | [Legacy (Archive)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/SourceArchives/fheroes2.gcw0.src.zip) | HMM2 Data Files, `data` folder to `~/.fheroes2/data` & `maps` folder to `~/.fheroes2/maps`
 Hexen 2	- Hammer of Thyrion** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/hexen2.opk) | [Inactive](https://github.com/JohnnyonFlame/gcw0-hexen2) | Hexen II Data Files, `~/.hexen2/data1`
 Hocoslamfy | [Latest](https://github.com/fgl82/hocoslamfy/releases/latest) | [Active](https://github.com/fgl82/hocoslamfy) | No
+Jet Set Willy II | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/JET%20SET%20WILLY%20II%20(Remake).opk) | Legacy (Source N/A) | No
 KOF - Flames of Courage v5 | [Final](https://drive.google.com/open?id=1HlGJIwxKIPYay5vPuiZ89_Kh_cgyytGh) | [Inactive](https://github.com/gromv/kofv5) | No
 Last Mission | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/last-mission.opk) | [Inactive](https://github.com/dmitrysmagin/last-mission) | No
+Love Snake | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Love%20Snake.opk) | Legacy (Source N/A) | No
 Marathon* | [Latest](https://drive.google.com/open?id=147IPd5EKXRzdXOSbD7gSJCpgorC7ce4y) | Active (Source N/A) | No
 Marathon 2* | [Latest](https://drive.google.com/open?id=1bieRbLbcv8Dn3yKNflIZcfBkbfCfW7XU) | Active (Source N/A) | No
 Marathon Infinite* | [Latest](https://drive.google.com/open?id=1UayihX4pbpY0gyLC-dWnBuvGLNTQeFl9) | Active (Source N/A) | No
+Meritous | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Meritous.opk) | [Inactive](https://github.com/zear/meritous) | No
 Meteoroid3D | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/meteoroid3d.opk) | [Inactive](https://github.com/theZiz/meteoroid3d) | No
+Metro-Cross Remake | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Metro-Cross%20Remake.opk) | Legacy (Source N/A) | No
 MiniSlug | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/MiniSlug.opk) | [Inactive](http://oldschoolprg.x10.mx/projets.php#minislug) | No
 Mr.Drillux | [Latest](https://github.com/jbanes/rs97-mrdrillux/releases/latest) | [Inactive](https://github.com/jbanes/rs97-mrdrillux) | No
 nKaruga | [Latest](https://gameblabla.nl/files/nkaruga/nKaruga.opk) | [Inactive](https://github.com/gameblabla/nKaruga) | No
@@ -57,6 +66,7 @@ OpenJazz | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master
 OpenSonic | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/opensonic.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/opensonic-0-1-4/) | No
 OpenTyrian** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/opentyrian_r1055.opk) | [Inactive](https://github.com/JohnnyonFlame/OpenTyrian) | No
 POWDER | [Latest_v117](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/powder_117.opk) | Legacy (Source N/A) | No
+PrBoom+ | [Latest](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350/releases/latest) | [Inactive](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350) | No
 Puzzletube | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/puzzletube.opk) | [Inactive](https://github.com/theZiz/puzzletube) | No
 Quake GLES** | [Latest](https://github.com/thenesis-org/lp-public/releases/tag/v1.1) | [Inactive](https://github.com/thenesis-org/lp-public/tree/master/Ports/Quake1) | Quake (& Mission Pack 1/2) Data Files, `~/.local/share/Thenesis/Quake1/`
 Quake 2 GLES** | [Latest](https://github.com/thenesis-org/lp-public/releases/tag/v1.1) | [Inactive](https://github.com/thenesis-org/lp-public/tree/master/Ports/Quake2) | Quake II (& Mission Pack 1/2/3/CTF) Data Files, `~/.local/share/Thenesis/Quake2/`
@@ -82,6 +92,7 @@ Strange Adventure in Infinite Space | [Latest](https://drive.google.com/file/d/1
 Streets of Rage Remake v5.1 | [Latest](https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU) | [Legacy](https://sega.com) | No (Recommended to set `Video Options -> Shadows` from `Reflected` to `SOR` type to mitigate crashes.)
 Super Mario War | [Latest](https://gameblabla.nl/files/ipk/gcw0/smw_gcw0.opk) | Active (Source N/A) | No
 SuperTux | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/supertux.opk) | [Inactive](https://github.com/dmitrysmagin/supertux) | No
+Syoban Action | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Syobon%20Action.opk) | Legacy (Source N/A) | No
 TailTale | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/TailTale.opk) | [Inactive](https://bitbucket.org/shin_nil/tale-tail-gcw-zero) | No
 Tron-clone | [Latest](https://github.com/jamesofarrell/tron-clone/releases/latest) | [Active](https://github.com/jamesofarrell/tron-clone) | No (Multiplayer Only)
 UMG-v0.4Demo | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/umg-gcw-exclusive-preview-0.4.opk) | [Legacy](http://artur-rojek.eu/umg.php) | No
@@ -89,6 +100,9 @@ Ur-Quam Masters (Star Control 2) | [Latest](https://drive.google.com/open?id=16W
 VVVVVV | [Latest](https://drive.google.com/file/d/1kRa6Hcd9jCXjiDD1_DBCLALPYDhbQ5dJ/view) | Active (Source N/A) | VVVVVV Data Archive, `~/.local/share/VVVVVV/data.zip`
 xRick | [Latest](https://github.com/jamesofarrell/miyoo_xrick/releases/latest) | [Active](https://github.com/jamesofarrell/miyoo_xrick) | No
 Zatackax | [Latest](https://github.com/jamesofarrell/zatackax/releases/latest) | [Active](https://github.com/jamesofarrell/zatackax) | No
+Zelda: Return of the Hylian | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Zelda%20-%20Return%20of%20the%20Hylian.opk) | Legacy (Source N/A) | No
+Zelda: Oni-Link Begins | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Zelda%20-%20Onilink%20Begins.opk) | Legacy (Source N/A) | No
+Zelda: Time to Triumph | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Zelda%20-%20Time%20to%20Triumph%20.opk) | Legacy (Source N/A) | No
 
 Index:
 
@@ -111,6 +125,7 @@ Most emulators will use the Power (I/O) button for a menu toggle; otherwise, it'
 [RetroArch](https://www.retroarch.com/) | RetroArch (WIP) | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/663939767943036938/retroarch.opk) | [Upstream](https://github.com/libretro/RetroArch) | [Varies](https://docs.libretro.com/)
 3DO | 3Doh | [Latest](https://github.com/gameblabla/3doh_gcw0/raw/master/3doh.opk) | [Inactive](https://github.com/gameblabla/3doh_gcw0) | 3DO BIOS, `/media/data/local/home/.3doh/bios.bin`
 Amstrad CPC | CrocoDS | [2020-01-15](https://www.kyuran.be/rg350/crocods_20200115.opk) | [Active](https://www.kyuran.be/rg350/) | No
+Apple II(GS) | KEGS | [2016-05-04](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/KEGS_2016-05-04.opk)| [Inactive](https://github.com/gameblabla/kegs-gcw) | Apple II GS ROM, `~/.kegs/ROM`, and related games/hard disk images. [READ THE README.](https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/)
 Arcade - FBA | FinalBurnAlpha | [0.2.97.35 (Speed)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/FinalBurnAlpha_2020-01-22-.35_alias.opk) [0.2.97.44 (Compatibility)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/FinalBurnAlpha_2020-01-22-.44_alias.opk) | [Active](https://github.com/nobk/fba-sdl) | Varies
 Arcade - Laserdisc | Daphne | [2015-05-07](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Daphne_2015-05-07.opk) | [Inactive](https://github.com/DavidKnight247/Daphne) | [Compatible Laserdisc Games (Conversion Tutorial Link)](https://boards.dingoonity.org/gcw-releases/daphne/)
 Arcade - MAME (0.52, 0.69, 0.84) | XMAME (Installer)* | [2015-03-15](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/XMAME_2015-03-15.opk) | [Inactive (Archive)](https://drive.google.com/open?id=1SzIjckEVjSAKdnRQGT7kbH9c_B9X3k8-) | Internal: `/usr/local/share/xmame/{xmame52 OR xmame69 OR xmame84}/roms`, External: `/media/sdcard/apps/xmame/{xmame52 OR xmame69 OR xmame84}/roms`
@@ -125,6 +140,7 @@ Coleco Colecovision | ColecOD | [2013-06-15-launcher](https://github.com/SeongGi
 Commodore 64, 128, VIC-20, Plus-4 | VICE (Launcher Mod)** | [2019-12-23](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/VICE_2019-12-23-LauncherMod.opk) | [Legacy](https://boards.dingoonity.org/gcw-zero-emulation/(testing)-vice-2-3/) | No; run `VICE Setup` if installing for the first time
 Commodore Amiga | UAE4All* | [2019-08-23](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/UAE4All_2019-08-23.opk) | [Inactive Fork](https://github.com/smulrine/uae4all) | Amiga 500 Kickstart ROM, `~/.uae4all/kick.rom`
 Mattel Intellivision | JzIntv | [2015-03-28](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/jzIntv_2015-03-28.opk) | [Inactive](https://github.com/DavidKnight247/jzIntv) | No
+MB/GCE Vectrex | DinguxVectrex* | [2014-05-25](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/DinguxVectrex_2014-05-25.opk) | [Inactive](https://github.com/kerheol/dingux-vectrex) | No
 Nintendo Entertainment System, Famicom Disk System | FCEUX | [2019-11-15](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/FCEUX_2019-11-15.opk) | [Active Fork](https://github.com/soarqin/fceux-for-retrogame) | (Optional) Famicom Disk System ROM, `~/.fceux/disksys.rom`
 Nintendo Entertainment System, Famicom Disk System (High Accuracy) | Nestopia (ALPHA) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Nestopia_2020-01-01.opk) | [Active](https://github.com/Derynect/nestopia) | (Optional) Famicom Disk System ROM, `~/.nestopia/disksys.rom`
 Nintendo Game Boy (DMG, Color) | Gambatte | [Latest](https://github.com/bardeci/dot-matrix-simulator/releases/latest) | [Active Fork](https://github.com/bardeci/dot-matrix-simulator) | No
