@@ -66,7 +66,7 @@ OpenJazz | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master
 OpenSonic | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/opensonic.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/opensonic-0-1-4/) | No
 OpenTyrian** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/opentyrian_r1055.opk) | [Inactive](https://github.com/JohnnyonFlame/OpenTyrian) | No
 POWDER | [Latest_v117](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/powder_117.opk) | Legacy (Source N/A) | No
-PrBoom+ | [Latest](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350/releases/latest) | [Inactive](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350) | No
+PrBoom+ | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/PrBoom%2B_2019-10-29-alias.opk) | [Inactive](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350) | No
 Puzzletube | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/puzzletube.opk) | [Inactive](https://github.com/theZiz/puzzletube) | No
 Quake GLES** | [Latest](https://github.com/thenesis-org/lp-public/releases/tag/v1.1) | [Inactive](https://github.com/thenesis-org/lp-public/tree/master/Ports/Quake1) | Quake (& Mission Pack 1/2) Data Files, `~/.local/share/Thenesis/Quake1/`
 Quake 2 GLES** | [Latest](https://github.com/thenesis-org/lp-public/releases/tag/v1.1) | [Inactive](https://github.com/thenesis-org/lp-public/tree/master/Ports/Quake2) | Quake II (& Mission Pack 1/2/3/CTF) Data Files, `~/.local/share/Thenesis/Quake2/`
