@@ -7,7 +7,7 @@ These are all ports with the best available binaries (.OPKs), at least from my (
 * [Firmwares & Updates](https://github.com/SeongGino/RetroGame350-AppRepo#firmwares--updates)
   * [RG-350](https://github.com/SeongGino/RetroGame350-AppRepo#rg-350)
   
-  * [PlayGo / Pocket Go 2 / Miyoo Max](https://github.com/SeongGino/RetroGame350-AppRepo#pocket-go-2)
+  * [PlayGo / Pocket Go 2 / Miyoo Max](https://github.com/SeongGino/RetroGame350-AppRepo#playgo--pocket-go-2--miyoo-max)
 
 * [Games & Ports](https://github.com/SeongGino/RetroGame350-AppRepo#games--ports)
 
@@ -45,7 +45,7 @@ Index:
 [1.5.1](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.1%20Changelog.txt) | N/A | [1.5.1_OPK Updater](https://drive.google.com/open?id=1YlMs_L-1xVXa-pbjlkNViQPahdoC_Y8n)
 [1.5.2 (Testing)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.2%20(UNOFFICIAL)%20Changelog.txt) | N/A | [1.5.2_OPK Updater](https://drive.google.com/open?id=1Pzr6p5QGq1-oaBgpAY4uuld8hFMKDiUo)
 
-### Pocket Go 2
+### PlayGo / Pocket Go 2 / Miyoo Max
 
 | Version | Base Image |
 |---------|-----------:|
