@@ -14,7 +14,7 @@ These are all ports with the best available binaries (.OPKs), at least from my (
 
 [Applications](https://github.com/SeongGino/RetroGame350-AppRepo#applications)
 
-[Development Tools (for developers only)]()
+[Development Tools (for developers only)](https://github.com/SeongGino/RetroGame350-AppRepo#development-tools)
 
 All apps can be placed inside and ran from either the internal SD card in `/media/data/apps/` (these are where apps are by default), or in the external card in `SDCARD ROOT:/apps/` (recognized by the system as `/media/sdcard/apps/`).
 
