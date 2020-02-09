@@ -40,7 +40,7 @@ Many would recommend that you use the latest available stable firmware for your 
 
 *Base Images:* For either new SD Cards, or corrupted/old in-use internal cards that may need a full update. Requires using a PC with an SD Reader/Adapter. Comes with built-in apps. Typically only provided for Major version updates.
 
-*OPK Updater:* Runs directly on the console (usually from an external card) that only updates the kernel and other related important files that need updating. Typically provided as an alternative for Major version updates, or Minor/Patch-level updates.
+*OPK Updater:* Runs directly on the console (usually from an external card) that only updates the kernel and other related important files that need updating. Typically provided as an alternative for Major version updates, or Minor/Patch-level updates. Does *NOT* require installing previous updates, unless explicitly noted.
 
 ***NOTE:*** If you use the Base Image on a new/old SD card, it is **highly** recommended that, for best results, you wipe the existing games/emulator versions bundled and provide the versions listed in this repo.
 
