@@ -12,7 +12,7 @@ RG-350 - Firmware 1.5 Base Image
 Installation 
 ***If you have important data, BACKUP FIRST - YOUR CARD WILL BE WIPED***
 
-0* Use at least a 16GB card - for best results, a high-quality Class-10/UHS I/A1 Micro SD card is recommended. The SD Association's Format Utility is recommended for cleaning used cards on Windows.
+0* Use at least a 16GB card - for best results, a high-quality Class-10/UHS I/A1 Micro SD card is recommended. The SD Association's Format Utility is suggested for cleaning used cards on Windows.
 1* Use Win32DiskImager (Windows)/Balena-Etcher (Linux, Mac OS X, et. al) to flash the provided .IMG file to your SD Card.
 2* Using Disk Genius (Windows)/GParted (Linux, Live USB image), extend the EXT4 (Data) partition to your SD Card's maximum capacity.
 3* Replace your newly flashed SD Card into the internal slot inside your RG-350.
