@@ -1,0 +1,37 @@
+RG-350 - Firmware 1.5.1 Updater
+(Source: https://github.com/tonyjih/RG350_linux/releases/tag/2019.10.27)
+
+< Welcome to OpenDingux ! >
+ -------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+Installation 
+***If you have important data, BACKUP FIRST JUST IN CASE***
+
+1* Lob the updater to your external SD card's apps folder (SDCARDROOT:/apps/).
+2* Boot up your RG-350. Make sure you have at least 50% battery, or be connected to an outlet!
+3* Boot the updater (in Apps category).
+4* Read the on-screen disclaimer and follow the instructions.
+5* After a reboot, your device will be updated!
+
+
+Changelog for Firmware 1.5.1-2 (October 27th, 2019 - Revision A)
+*Restored USB-HID support
+*Fix shutdown button
+
+Changelog for Firmware 1.5.1 (October 27th, 2019 - Original Release)
+*Fixed rumble when enabling device
+*Added zear's libshake support
+*Added Sharpness adjustment, Power + D-Pad Up / Down
+*Force joystick mode moved to Power + B
+*Fixed delay on joystick mode
+*Bigger dead-zone for joystick mode
+
+Thanks goes to TonyJih for firmware development, and assistance from Zear, Podulator, Sauce, soarqin, JBDoge, and co.
+
+~<3
+    That One Seong
