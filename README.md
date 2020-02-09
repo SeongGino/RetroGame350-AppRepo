@@ -4,17 +4,18 @@ These are all ports with the best available binaries (.OPKs), at least from my (
 
 ### Table of Contents
 
-[Firmwares - RG-350](https://github.com/SeongGino/RetroGame350-AppRepo#rg-350)
+* Firmwares & Updates
+  * [RG-350](https://github.com/SeongGino/RetroGame350-AppRepo#rg-350)
 
-[Games & Ports](https://github.com/SeongGino/RetroGame350-AppRepo#games--ports)
+* [Games & Ports](https://github.com/SeongGino/RetroGame350-AppRepo#games--ports)
 
-[Emulators](https://github.com/SeongGino/RetroGame350-AppRepo#emulators)
+* [Emulators](https://github.com/SeongGino/RetroGame350-AppRepo#emulators)
 
-[Frontends](https://github.com/SeongGino/RetroGame350-AppRepo#frontends)
+* [Frontends](https://github.com/SeongGino/RetroGame350-AppRepo#frontends)
 
-[Applications](https://github.com/SeongGino/RetroGame350-AppRepo#applications)
+* [Applications](https://github.com/SeongGino/RetroGame350-AppRepo#applications)
 
-[Development Tools (for developers only)](https://github.com/SeongGino/RetroGame350-AppRepo#development-tools)
+* [Development Tools (for developers only)](https://github.com/SeongGino/RetroGame350-AppRepo#development-tools)
 
 All apps can be placed inside and ran from either the internal SD card in `/media/data/apps/` (these are where apps are by default), or in the external card in `SDCARD ROOT:/apps/` (recognized by the system as `/media/sdcard/apps/`).
 
