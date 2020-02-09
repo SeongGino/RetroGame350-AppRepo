@@ -1,11 +1,13 @@
 # OpenDingux Application Repo
 
-These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed wherever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds; primarily the Anbernic RG-350, but these are also known to work on the BittBoy Pocket Go 2, and may also retain compatibility with the GCW Zero. **Do note, however, that the Game Kiddy 350H - another handheld that runs OpenDingux - is known to have compatibility issues with many software that use IPU scaling or GPU functions.**
+These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed wherever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds; primarily the Anbernic RG-350, but these are also known to work on the BittBoy Pocket Go 2 / Wolsen PlayGo / Miyoo Max, and may also (though not always) retain compatibility with the GCW Zero. **Do note, however, that the Game Kiddy 350H - another handheld that runs OpenDingux - is known to have compatibility issues with many software that use IPU scaling or GPU functions.**
 
 ### Table of Contents
 
-* Firmwares & Updates
+* [Firmwares & Updates](https://github.com/SeongGino/RetroGame350-AppRepo#firmwares--updates)
   * [RG-350](https://github.com/SeongGino/RetroGame350-AppRepo#rg-350)
+  
+  * [PlayGo / Pocket Go 2 / Miyoo Max](https://github.com/SeongGino/RetroGame350-AppRepo#pocket-go-2)
 
 * [Games & Ports](https://github.com/SeongGino/RetroGame350-AppRepo#games--ports)
 
@@ -21,29 +23,43 @@ All apps can be placed inside and ran from either the internal SD card in `/medi
 
 `/media/data/local/share/` and `/usr/local/share/` are the same target directory. If you're using the RG-350, it's recommended to use FTP (access the "Network" link in the `Settings` section of your home menu). The Pocket Go 2 is known to lack the necessary functioning device drivers to have working FTP, so you'll have better luck copying files between cards through the built-in `Dingux Commander` utility, referencing the provided apps locations for where to copy to.
 
-Many would recommend that you use the latest available stable firmware for your device. If you encounter any issues, make sure to refer to the official documentation for the latest firmware and basic instructions respective to your device:
+Many would recommend that you use the latest available stable firmware for your device, with the recommended images for supported devices listed in the section below - [Firmwares & Updates](https://github.com/SeongGino/RetroGame350-AppRepo#firmwares--updates). Clicking the version numbers 
 
-* [Anbernic RG-350](https://github.com/retrogamehandheld/RG-350/wiki/Firmware-and-Software-Updates)
+---
 
-* [Bittboy Pocket Go 2](https://github.com/retrogamehandheld/PocketGo2/wiki/Firmware-and-software-updates)
+## Firmwares & Updates
 
-* [GCW Zero](http://www.gcw-zero.com/updates)
-
-## Firmware Updates
-
-### RG-350
-
-| Version | Base Image | OPK Updater |
-|---------|:----------:|------------:|
-[1.5](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5%20Changelog.txt) | [SD Card Image](https://drive.google.com/open?id=1DZGJtw6nMVaAT8PHUBasiOrCKcnZ1s70) | N/A
-[1.5.1](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.1%20Changelog.txt) | N/A | [OPK Updater](https://drive.google.com/open?id=1YlMs_L-1xVXa-pbjlkNViQPahdoC_Y8n)
-[1.5.2 (Testing)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.2%20(UNOFFICIAL)%20Changelog.txt) | N/A | [OPK Updater](https://drive.google.com/open?id=1Pzr6p5QGq1-oaBgpAY4uuld8hFMKDiUo)
+Index:
 
 *Base Images:* For either new SD Cards, or corrupted/old in-use internal cards that may need a full update. Requires using a PC with an SD Reader/Adapter. Comes with built-in apps. Typically only provided for Major version updates.
 
 *OPK Updater:* Runs directly on the console (usually from an external card) that only updates the kernel and other related important files that need updating. Typically provided as an alternative for Major version updates, or Minor/Patch-level updates. Does *NOT* require installing previous updates, unless explicitly noted.
 
 ***NOTE:*** If you use the Base Image on a new/old SD card, it is **highly** recommended that, for best results, you wipe the existing games/emulator versions bundled and provide the versions listed in this repo.
+
+### RG-350
+
+| Version | Base Image | OPK Update |
+|---------|:----------:|------------:|
+[1.5](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5%20Changelog.txt) | [1.5_SD Card Image](https://drive.google.com/open?id=1DZGJtw6nMVaAT8PHUBasiOrCKcnZ1s70) | N/A
+[1.5.1](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.1%20Changelog.txt) | N/A | [1.5.1_OPK Updater](https://drive.google.com/open?id=1YlMs_L-1xVXa-pbjlkNViQPahdoC_Y8n)
+[1.5.2 (Testing)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.2%20(UNOFFICIAL)%20Changelog.txt) | N/A | [1.5.2_OPK Updater](https://drive.google.com/open?id=1Pzr6p5QGq1-oaBgpAY4uuld8hFMKDiUo)
+
+### Pocket Go 2
+
+| Version | Base Image |
+|---------|-----------:|
+Stock | [SD Card Image](waytoolazy,i'llchangethislaterzzzzzzz)
+
+*Follow [the instructions for SD Card Image flashing from the RG-350](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5%20Changelog.txt) for reverting to stock PG2 firmware.
+
+### GCW Zero
+
+| Version | OPK Update |
+|---------|------------:|
+[08-20-2014](http://www.gcw-zero.com/updates) | [OPK Updater](http://www.gcw-zero.com/files/gcw0-update-2014-08-20.opk)
+
+---
 
 ## Games & Ports
 
