@@ -49,7 +49,7 @@ Index:
 
 | Version | Base Image |
 |---------|-----------:|
-Stock | [SD Card Image](waytoolazy,i'llchangethislaterzzzzzzz)
+Stock | [SD Card Image](https://drive.google.com/open?id=1Ihd6T_dR5CigcxlKQWuVsKTv5y5dHcjY)
 
 *Follow [the instructions for SD Card Image flashing from the RG-350](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5%20Changelog.txt) for reverting to stock PG2 firmware.
 
