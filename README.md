@@ -70,6 +70,7 @@ Fade to Black | [Gamebla's Latest](https://github.com/gameblabla/f2bgl/raw/maste
 Falling Time | [Latest](https://github.com/cxong/FallingTime/releases/download/1.0/falling_time.opk) | [Inactive](https://github.com/cxong/FallingTime) | No
 Finite | [Latest](https://github.com/jxv/finite/releases) | [Inactive](https://github.com/jxv/finite) | No
 FreeDink | [Latest](https://drive.google.com/open?id=1NvA25Y0_1Mdh-mzMjvGHMq0J_M3_Q9Jq) | [Inactive](https://www.gnu.org/software/freedink/) | No
+FreeDroid | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/Games-Ports/freedroid.opk) | [Inactive](https://github.com/WildPenquin/FreedroidClassic-GCW0) | No
 Ganbare, Natsuki-san! | [Latest](https://github.com/gameblabla/Ganbare-Natsuki-San/raw/master/gnp.opk) | [Inactive](https://github.com/gameblabla/Ganbare-Natsuki-San) | No
 Ghouls'n Ghosts Remix | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/GhoulsAndGhostsRemix-0.56-1.opk) | [Inactive](https://github.com/podulator/ggr_056) | No
 Gianna's Return | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Giana's%20Return.opk) | Legacy (Source N/A) | No
