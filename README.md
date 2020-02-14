@@ -171,7 +171,6 @@ Most emulators will use the Power (I/O) button for a menu toggle; otherwise, it'
 
 | Emulated System(s) | Name | OPK Link | Source | Requires System Files? |
 |--------------------|:------:|:--------:|:------:|-----------------------:|
-[RetroArch](https://www.retroarch.com/) | RetroArch (WIP) | [Latest](https://cdn.discordapp.com/attachments/625718299493138442/663939767943036938/retroarch.opk) | [Upstream](https://github.com/libretro/RetroArch) | [Varies](https://docs.libretro.com/)
 3DO | 3Doh | [Latest](https://github.com/gameblabla/3doh_gcw0/raw/master/3doh.opk) | [Inactive](https://github.com/gameblabla/3doh_gcw0) | 3DO BIOS, `/media/data/local/home/.3doh/bios.bin`
 Amstrad CPC | CrocoDS | [2020-01-15](https://www.kyuran.be/rg350/crocods_20200115.opk) | [Active](https://www.kyuran.be/rg350/) | No
 Apple II(GS) | KEGS | [2016-05-04](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/KEGS_2016-05-04.opk)| [Inactive](https://github.com/gameblabla/kegs-gcw) | Apple II GS ROM, `~/.kegs/ROM`, and related games/hard disk images. [READ THE README.](https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/)
