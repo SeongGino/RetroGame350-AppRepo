@@ -20,6 +20,7 @@ Installation
 
 
 Changelog for Firmware 1.5.2 [Unofficial Update] (December 11th, 2019)
+*(undoc'd) EXPERIMENTAL 1080MHz maximum overclock.
 *ZSWAP use (re)added
 *Fixed Power button usage: will now send input only when pressed momentarily without usage of hotkeys, avoiding the accidental activation of functionality attached to I/O when using hotkeys (such as brightness/sharpness adjustment, screenshots, etc.)
 *Number of other changes since 1.5.1-2
