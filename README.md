@@ -29,8 +29,6 @@ It is ***highly recommended*** that you use the latest available *stable* firmwa
 
 ## Firmwares & Updates
 
-Index:
-
 *Base Images:* For either new SD Cards, or corrupted/old in-use internal cards that may need a full update. Requires using a PC with an SD Reader/Adapter. Comes with built-in apps. Typically only provided for Major version updates.
 
 *OPK Updater:* Runs directly on the console (usually from an external card) that only updates the kernel and other related important files that need updating. Typically provided as an alternative for Major version updates, or Minor/Patch-level updates. Does *NOT* require installing previous updates, unless explicitly noted.
@@ -153,8 +151,6 @@ Zelda: Return of the Hylian | [Latest](https://github.com/SeongGino/RetroGame350
 Zelda: Oni-Link Begins | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Zelda%20-%20Onilink%20Begins.opk) | Legacy (Source N/A) | No
 Zelda: Time to Triumph | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Zelda%20-%20Time%20to%20Triumph%20.opk) | Legacy (Source N/A) | No
 
-Index:
-
 *:Accepts all RG350/PG2 inputs (dual sticks, secondary triggers and stick clicks)
 
 **:Accepts most RG350/PG2 inputs, but in a limited capacity (i.e. can only use one joystick, doesn't register stick clicks, etc.)
@@ -211,8 +207,6 @@ Super Nintendo Entertainment System (High Accuracy, Slow) | Snes9x | [2019-11-11
 Watara Supervision | Potator* | [2013-09-17](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Potator_2013-09-17.opk) | [Inactive](https://github.com/alekmaul/potator) | No
 ZX Spectrum | Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/UnrealSpeccyPortable_2013-05-13.opk) | [Inactive](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) | No
 
-### Index:
-
 *: Emulator uses its own frontend for basic usage and setup
 
 **: Emulator uses its own frontend for setup, required to use system frontend launcher
@@ -226,8 +220,6 @@ ZX Spectrum | Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino
 350teric (Formerly GMenuNX-Dingux Fork) | [Latest](https://github.com/podulator/esoteric/releases/latest) | [Active](https://github.com/podulator/esoteric/)
 EmulationStation (UNSTABLE) | [Latest](https://github.com/ManuelSch81/RG350-EmulationStation_configured/raw/master/Internal%20SD%20Card/emulationstation.opk) | [Latest](https://github.com/ManuelSch81/RG350-EmulationStation_configured)
 SimpleMenu | [Latest](https://github.com/fgl82/simplemenu/releases/latest) | [Active](https://github.com/fgl82/simplemenu)
-
-### Index:
 
 *350teric (Pronounced "Esoteric"):* Based on GMenu2x, similar to GMenuNX (RetroFW) with additions such as preview images, extended skin customization, etc. [Example repos](https://github.com/m1024x/retrogame-skin-pack) [that demonstrate](https://github.com/SeongGino/LegieUI-NX) [the added possibilities.](https://github.com/SeongGino/SymphieUI-NX)
 
