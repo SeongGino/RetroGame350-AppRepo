@@ -151,11 +151,11 @@ Zelda: Return of the Hylian | [Latest](https://github.com/SeongGino/RetroGame350
 Zelda: Oni-Link Begins | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Zelda%20-%20Onilink%20Begins.opk) | Legacy (Source N/A) | No
 Zelda: Time to Triumph | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Zelda%20-%20Time%20to%20Triumph%20.opk) | Legacy (Source N/A) | No
 
-*:Accepts all RG350/PG2 inputs (dual sticks, secondary triggers and stick clicks)
+*: Accepts all RG350/PG2 inputs (dual sticks, secondary triggers and stick clicks)
 
-**:Accepts most RG350/PG2 inputs, but in a limited capacity (i.e. can only use one joystick, doesn't register stick clicks, etc.)
+**: Accepts most RG350/PG2 inputs, but in a limited capacity (i.e. can only use one joystick, doesn't register stick clicks, etc.)
 
-***:Uses frontend file explorer for input.
+***: Uses frontend file explorer for input.
 
 ---
 
