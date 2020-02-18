@@ -23,7 +23,7 @@ All apps can be placed inside and ran from either the internal SD card in `/medi
 
 `/media/data/local/share/` and `/usr/local/share/` are the same target directory. If you're using the RG-350, it's recommended to use FTP (access the "Network" link in the `Settings` section of your home menu). The Pocket Go 2 is known to lack the necessary functioning device drivers to have working FTP, so you'll have better luck copying files between cards through the built-in `Dingux Commander` utility, referencing the provided apps locations for where to copy to.
 
-It is ***highly recommended*** that you use the latest available *stable* firmware for your device, with the provided updates for supported devices listed in the section below - [Firmwares & Updates](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#firmwares--updates). Clicking the version numbers will link to relevant instructions and changelogs for that particular version.
+It is [***highly recommended***](https://old.reddit.com/r/RG350/comments/f5v25n/rogue_cfw_pros_cons/) that you use the latest available *stable* firmware for your device, with the provided updates for supported devices listed in the section below - [Firmwares & Updates](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#firmwares--updates). Clicking the version numbers will link to relevant instructions and changelogs for that particular version.
 
 ---
 
