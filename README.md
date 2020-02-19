@@ -194,7 +194,7 @@ NEC PC-Engine/TurboGrafx-16, CD System | Temper | [Latest](https://gameblabla.nl
 NEC PC-FX | SmallPCFX | [Latest](https://github.com/gameblabla/pcfx-mednafen/releases/latest) | [Inactive](https://github.com/gameblabla/pcfx-mednafen) | PC-FX BIOS, `~/.mednafen/pcfx.rom`
 PC - MS-DOS | DOSBox v0.74 | [2019-11-11-launcher](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/DOSBox_2019-11-11-launcher.opk) | [Active Fork](https://github.com/soarqin/dosbox-rg350) | No
 PC - MSX (1, 2, 2+) | OpenMSX | [v0.15 (2018-12-23)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/openMSX-0.15-remap.opk) | [Upstream](https://github.com/openMSX/openMSX) | (Optional) BlueMSX Compatible System Folders, Configurable
-PC - Point-and-Click Adventure Games | ScummVM*	| [Latest](https://github.com/jbanes/scummvm/releases) | [Active Fork](https://github.com/jbanes/scummvm) | No
+PC - Point-and-Click Adventure Games | ScummVM*	| [Latest](https://github.com/craigsc/scummvm-rg350/releases/latest) | [Active Fork](https://github.com/craigsc/scummvm-rg350) | No
 PICO-8 | Retro8 | [Latest](https://github.com/Jakz/retro8/releases/latest) | [Active](https://github.com/Jakz/retro8) | No
 Sega Master System, Game Gear | SMS Plus GX | [Latest](https://gameblabla.nl/files/ipk/gcw0/smsplus_gcw0.opk) | [Active](https://github.com/gameblabla/sms_sdl) | No
 Sega Genesis/Mega Drive, CD, Master System, Game Gear, SG-1000 | Genesis Plus GX | [2019-12-23](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/GenesisPlusGX_2019-12-23.opk) | [Active](https://github.com/Derynect/Genesis-Plus-GX) | (Optional) Sega/Mega CD BIOS Images, `bios_CD_U.bin` `bios_CD_J.bin` `bios_CD_E.bin`: `~/.genplus/bios/`
