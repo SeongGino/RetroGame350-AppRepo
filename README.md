@@ -90,6 +90,7 @@ Ghouls'n Ghosts Remix | [Latest](https://github.com/SeongGino/RetroGame350-AppRe
 Gianna's Return | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Giana's%20Return.opk) | Legacy (Source N/A) | No
 Griffon Legend | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/griffon.opk) | [Inactive](https://github.com/dmitrysmagin/griffon_legend) | No
 Hase | [Latest](http://ziz.openhandhelds.org/hase/hase.opk) | [Active](https://github.com/theZiz/hase) | No
+Heart of Darkness (HODE) | [Latest](https://gameblabla.nl/files/ipk/gcw0/hode_gcw0.opk) | Active (Source N/A) | Heart of Darkness (PC) Installation, uses native selector; point at `.dem/.lvl/.mst/.sss` files
 Heroes of Might & Magic 2 | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/fheroes2.opk) | [Legacy (Archive)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/SourceArchives/fheroes2.gcw0.src.zip) | HMM2 Data Files (`data` & `maps` folders), `~/.fheroes2/`
 Hexen 2	- Hammer of Thyrion** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/hexen2.opk) | [Inactive](https://github.com/JohnnyonFlame/gcw0-hexen2) | Hexen II Data Files, `~/.hexen2/data1/`
 Hocoslamfy | [Latest](https://github.com/fgl82/hocoslamfy/releases/latest) | [Active](https://github.com/fgl82/hocoslamfy) | No
@@ -108,7 +109,8 @@ Mr.Drillux | [Latest](https://github.com/jbanes/rs97-mrdrillux/releases/latest) 
 nKaruga | [Latest](https://gameblabla.nl/files/nkaruga/nKaruga.opk) | [Inactive](https://github.com/gameblabla/nKaruga) | No
 Odamex* *** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/odamex.opk) | [Inactive](https://github.com/JohnnyonFlame/odamex) | (Final) DOOM (2) Data Files
 OpenBOR | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/OpenBOR_3.0_r4165_GCW0_Edition.opk) | [Inactive](https://github.com/DavidKnight247/OpenBOR-for-the-GCW0) | OpenBOR Game Pak Files, `/usr/local/share/OpenBOR/Paks/`
-OpenJazz | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/openjazz.opk) | [Inactive](https://boards.dingoonity.org/gcw-development/openjazz-8914/) | Jazz Jackrabbit Data Files, `~/.openjazz/`
+OpenJazz (Original) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/openjazz.opk) | [Inactive](https://boards.dingoonity.org/gcw-development/openjazz-8914/) | Jazz Jackrabbit Data Files, `~/.openjazz/`
+OpenJazz (New) | [Latest](https://gameblabla.nl/files/ipk/gcw0/OpenJazz_gcw0.opk) | Active (Source N/A) | Jazz Jackrabbit Data Files, `~/.openjazz/`
 OpenLara | [Latest](https://github.com/XProger/OpenLara/releases/download/latest/OpenLara_gcw0.zip) | [Upstream](https://github.com/XProger/OpenLara) | Tomb Raider Android/PC/PSX/Saturn Data Files, `~/.openlara/DATA/`; Optional: PSX/Saturn Load Screen Images, `~/.openlara/{BINDATA or DECDATA}/`; Optional: PC FMV Files, `~/.openlara/FMV/`; Optional: PC/PS1/Saturn Audio Files, `~/.openlara/audio/` (labeled `track_XX.ogg`, starting from zero-padded `02` to `60`)
 OpenSonic | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/opensonic.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/opensonic-0-1-4/) | No
 OpenTyrian** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/opentyrian_r1055.opk) | [Inactive](https://github.com/JohnnyonFlame/OpenTyrian) | No
