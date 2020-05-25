@@ -42,7 +42,7 @@ It is [***highly recommended***](https://old.reddit.com/r/RG350/comments/f5v25n/
 [1.5](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5%20Changelog.txt) | [1.5_SD Card Image](https://drive.google.com/open?id=1DZGJtw6nMVaAT8PHUBasiOrCKcnZ1s70) | N/A
 [1.5.1](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.1%20Changelog.txt) | N/A | [1.5.1_OPK Updater](https://drive.google.com/open?id=1YlMs_L-1xVXa-pbjlkNViQPahdoC_Y8n)
 [1.5.2 (Testing)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.2%20(UNOFFICIAL)%20Changelog.txt) | N/A | [1.5.2_OPK Updater](https://drive.google.com/open?id=1Pzr6p5QGq1-oaBgpAY4uuld8hFMKDiUo)
-[HDMI (BETA)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/HDMI%20Updater%20Notes.md) | N/A | [HDMI Updater (RG-350)](https://drive.google.com/file/d/1Y1gCNGiedtYBP7lnGW7kd9S_5fYQwfaL/view) & [HDMI Updater (RG-350 M)](https://drive.google.com/file/d/1fI-sePexfwJgKJBHSPAeBD8MgKCgrjAn/view)
+[HDMI (BETA)](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/!RG-350_UpdateLogs/HDMI%20Updater%20Notes.md) | N/A | [HDMI Updater (RG-350)](https://drive.google.com/file/d/1Y1gCNGiedtYBP7lnGW7kd9S_5fYQwfaL/view) & [HDMI Updater (RG-350 M)](https://drive.google.com/file/d/1fI-sePexfwJgKJBHSPAeBD8MgKCgrjAn/view)
 
 ### PlayGo / Pocket Go 2 / Miyoo Max
 
