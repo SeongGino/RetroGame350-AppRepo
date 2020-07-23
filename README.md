@@ -2,6 +2,12 @@
 
 These are all ports with the best available binaries (.OPKs), at least from my (Seong's) personal testing. Sources (whenever applicable) and activity are listed wherever possible, to hopefully encourage further development of applications for the new generation of OpenDingux-based handhelds; primarily the Anbernic RG-350, but these are also known to work on the BittBoy Pocket Go 2 / Wolsen PlayGo / Miyoo Max, and may also (though not always) retain compatibility with the GCW Zero. **Do note, however, that the Game Kiddy 350H - another handheld that runs OpenDingux - is known to have compatibility issues with many software that use IPU scaling or GPU functions.**
 
+#### Contributing
+
+As I'm unable to contribute as much as I'd like to be able to these days due to conflicting interests, I welcome pull requests from other users who have new releases. For contributors, before forking, *please* follow the format [as written in the Wiki.](https://github.com/SeongGino/RetroGame350-AppRepo/wiki)
+
+**I'd appreciate it if we *didn't* fork, kthx? Let's prevent confusion for new users as much as we can, and contribute to one central repo.**
+
 ### Table of Contents
 
 * [Firmwares & Updates](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#firmwares--updates)
@@ -74,6 +80,7 @@ Cannon Fodder | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/m
 Cave Story (NXEngine) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/CaveStory.opk) | Inactive (Source N/A) | No
 C-Dogs SDL | [0.6.6](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cdogs-sdl_0.6.6.opk) | [Inactive (Upstream deprecated)](https://github.com/cxong/cdogs-sdl) | No
 Chocolate Doom** *** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/ChocolateDOOM_2013-06-12-aliasfilter.opk) | Inactive (Source N/A) | No
+Commander Genius | [Latest](https://github.com/goldmojo/Commander-Genius/releases) | [Active](https://github.com/goldmojo/Commander-Genius) | Commander Keen (1-6, Dreams) Data Files, `~/.CommanderGenius/games/`
 Descent 1 (d1x)** | [RetroFW ver.](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/d1x-rebirth.opk) | Inactive (Source N/A) | (Optional) Descent Data Files, `~/.d1x-rebirth/`, will fallback to built-in Shareware if not found.
 Descent 2 (d2x)* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/d2x-rebirth.opk) | [Legacy](https://boards.dingoonity.org/gcw-general/looking-for-working-descent-2-opk/) | (Optional) Descent 2 Data Files, `~/.d2x-rebirth/`, will fallback to built-in Shareware if not found.
 DevilutionX* | [Latest Development](https://github.com/glebm/devilutionX/releases/tag/0.5.0.350) [Latest Stable](https://github.com/diasurgical/devilutionX/releases) | [Active](https://github.com/glebm/devilutionX) [Upstream](https://github.com/diasurgical/devilutionX) | Diablo 1.09b Data File, `~/.local/share/diasurgical/diablo/diabdat.mpq`
@@ -259,6 +266,3 @@ Simple Terminal Emulator | [Latest](https://github.com/jamesofarrell/st-sdl/rele
 |------|-------:|
 Sparrow3D | [Source](https://github.com/theZiz/sparrow3d)
 
----
-
-I'd appreciate it if we *didn't* fork, kthx? Let's prevent confusion for new users as much as we can, and contribute to one central repo.
