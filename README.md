@@ -217,7 +217,7 @@ Sony PlayStation | PCSX4All | [Latest (Gameblabla)](https://gameblabla.nl/files/
 Super Nintendo Entertainment System (Fast, Low Accuracy) | PocketSNES | [2019-12-12](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/PocketSNES_2019-12-12.opk) | [Active](https://github.com/soarqin/PocketSNES) | No
 Super Nintendo Entertainment System (High Accuracy, Slow) | Snes9x | [2019-11-11](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Snes9x_2019-11-11.opk) | [Active Fork](https://github.com/soarqin/snes9x) | No
 Watara Supervision | Potator* | [2013-09-17](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Potator_2013-09-17.opk) | [Inactive](https://github.com/alekmaul/potator) | No
-ZX Spectrum | Unreal Speccy Portable | [2013-05-13](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/UnrealSpeccyPortable_2013-05-13.opk) | [Inactive](https://github.com/DavidKnight247/Unreal-Speccy-Emulator-GCW0-Edition) | No
+ZX Spectrum | Fuse | [Latest](https://github.com/plrguez/fuse-od/releases) | [Active](https://github.com/plrguez/fuse-od) | (Optional) Spectrum-family system ROMs, `~/.fuse/roms/`
 
 *: Emulator uses its own frontend for basic usage and setup
 
