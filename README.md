@@ -11,7 +11,7 @@ As I'm unable to contribute as much as I'd like to be able to these days due to 
 ### Table of Contents
 
 * [Firmwares & Updates](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#firmwares--updates)
-  * [UPDATE: Current Firmware]()
+  * [UPDATE: Current Firmware](https://github.com/SeongGino/RetroGame350-AppRepo#update-on-new-versions)
   
   * Legacy Firmware Releases:
     * [RG-350 / RG-350 M](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#rg-350--rg-350-m)
@@ -40,7 +40,7 @@ It is [***highly recommended***](https://old.reddit.com/r/RG350/comments/f5v25n/
 
 ## Firmwares & Updates
 
-### UPDATE: On New Versions
+### UPDATE: Current OpenDingux
 
 As of October 7th, the firmwares for the **RG-350, RG-350M, and GCW Zero** *[are now merged under the new-and-improved upstream OpenDingux.](https://zcrc.me/opendingux/2020/10/13/we-have-nighties.html)* Currently, these are considered ***ALPHA QUALITY*** and will be unstable in many ways compared to the individual device releases below, but can introduce anywhere from small to significant improvements in performance, functionality, and is overall much less of a headache to manage than the different forks for different devices. Eventually, *this will become the new standard firmware for OpenDingux-based devices;* however, like any change, this will be a transitionary period until the upstream OpenDingux is considered stable.
 
