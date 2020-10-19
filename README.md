@@ -11,7 +11,7 @@ As I'm unable to contribute as much as I'd like to be able to these days due to 
 ### Table of Contents
 
 * [Firmwares & Updates](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#firmwares--updates)
-  * [UPDATE: Current Firmware](https://github.com/SeongGino/RetroGame350-AppRepo#update-on-new-versions)
+  * [UPDATE: Current OpenDingux](https://github.com/SeongGino/RetroGame350-AppRepo#update-current-opendingux)
   
   * Legacy Firmware Releases:
     * [RG-350 / RG-350 M](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/README.md#rg-350--rg-350-m)
