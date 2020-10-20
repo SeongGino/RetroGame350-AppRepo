@@ -48,7 +48,7 @@ Once again, these releases **are alpha** and can/(probably) will crash or corrup
 
 | Version | OPK Update |
 |---------|-----------:|
-Nightly | [OPK Update](http://od.abstraction.se/opendingux/latest/)
+[Nightly](https://boards.dingoonity.org/gcw-general/opendingux-beta-nighty-builds/) | [OPK Update](http://od.abstraction.se/opendingux/latest/)
 
 
 *Base Images:* For either new SD Cards, or corrupted/old in-use internal cards that may need a full update. Requires using a PC with an SD Reader/Adapter. Comes with built-in apps. Typically only provided for Major version updates.
@@ -100,7 +100,7 @@ Chocolate Doom** *** | [Latest](https://github.com/SeongGino/RetroGame350-AppRep
 Commander Genius | [Latest](https://github.com/goldmojo/Commander-Genius/releases) | [Active](https://github.com/goldmojo/Commander-Genius) | Commander Keen (1-6, Dreams) Data Files, `~/.CommanderGenius/games/`
 Descent 1 (d1x)** | [RetroFW ver.](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/d1x-rebirth.opk) | Inactive (Source N/A) | (Optional) Descent Data Files, `~/.d1x-rebirth/`, will fallback to built-in Shareware if not found.
 Descent 2 (d2x)* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/d2x-rebirth.opk) | [Legacy](https://boards.dingoonity.org/gcw-general/looking-for-working-descent-2-opk/) | (Optional) Descent 2 Data Files, `~/.d2x-rebirth/`, will fallback to built-in Shareware if not found.
-DevilutionX* | [Latest Development](https://github.com/glebm/devilutionX/releases/tag/0.5.0.350) [Latest Stable](https://github.com/diasurgical/devilutionX/releases) | [Active](https://github.com/glebm/devilutionX) [Upstream](https://github.com/diasurgical/devilutionX) | Diablo 1.09b Data File, `~/.local/share/diasurgical/diablo/diabdat.mpq`
+DevilutionX* | [Latest](https://github.com/diasurgical/devilutionX/releases) | [Upstream](https://github.com/diasurgical/devilutionX) | Diablo 1.09b Data File, `~/.local/share/diasurgical/devilution/diabdat.mpq`
 DIV Frogger | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/DIV%20Frogger.opk) | Legacy (Source N/A) | No
 EasyRPG Player | [Latest](https://gameblabla.nl/files/ipk/gcw0/EasyRPG_gcw0_rg350.opk) | Active (Source N/A) | RPG Maker 2000/2003 Games, RTP files go in `~/.easyrpg/{rtp2k OR rtp2k3}`
 ECWolf* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/ecwolf.opk) | [Inactive](https://github.com/JohnnyonFlame/ecwolf) | Wolfenstein 3D/Spear of Destiny Data Files, `~/.ecwolf/`
@@ -143,11 +143,10 @@ OpenTyrian** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/ma
 POWDER | [Latest_v117](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/powder_117.opk) | Legacy (Source N/A) | No
 PrBoom+ | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/PrBoom%2B_2019-10-29-alias.opk) | [Inactive](https://github.com/Ninoh-FOX/PrBoom-plus-for-RG350) | No
 Puzzletube | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/puzzletube.opk) | [Inactive](https://github.com/theZiz/puzzletube) | No
-Quake GLES** | [Latest](https://github.com/thenesis-org/lp-public/releases/tag/v1.1) | [Inactive](https://github.com/thenesis-org/lp-public/tree/master/Ports/Quake1) | Quake (& Mission Pack 1/2) Data Files, `~/.local/share/Thenesis/Quake1/`
-Quake 2 GLES** | [Latest](https://github.com/thenesis-org/lp-public/releases/tag/v1.1) | [Inactive](https://github.com/thenesis-org/lp-public/tree/master/Ports/Quake2) | Quake II (& Mission Pack 1/2/3/CTF) Data Files, `~/.local/share/Thenesis/Quake2/`
 Quake 3* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Quake%203.opk) | Legacy (Source N/A) | Quake III Arena Shareware/Registered Data Files, `~/.q3a/`
-Quartermaster | [Latest](https://github.com/hi-ban/quartermaster/releases/latest) | [Active](https://github.com/hi-ban/quartermaster) | No
+Quartermaster | [Latest](https://github.com/hi-ban/quartermaster/releases) | [Active](https://github.com/hi-ban/quartermaster) | No
 REminiscence | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/REminiscence.opk) | [Inactive](https://github.com/ElwingGit/GCW0_REminiscence) | Flashback Data Files, `~/.REminiscence/data/`
+rgQuake* | [Latest](https://github.com/shpuld/rgquake/releases) | [Active](https://github.com/shpuld/rgquake) | Quake (& Mission Pack 1/2) Data Files, `/media/data/Quake/id1/pak*.pak`
 Rise of the Triad* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/rott.opk) | [Inactive Fork](https://github.com/podulator/RoTT) | Rise of the Triad: The Dark War (Registered Version) Data Files, `~/.rott/data/`
 Rockbot | [Latest](https://rockbot.upperland.net/?download=1.20.74%20OpenDingux) | [Inactive](https://github.com/protoman/rockbot) | No
 Rock Rain 2 | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Rock%20Rain%202.opk) | Legacy (Source N/A) | No
@@ -166,7 +165,7 @@ Sqrxz 3: Adventure for Love | [Final](https://github.com/SeongGino/RetroGame350-
 Sqrxz 4: Cold Cash | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/sqrxz4-v.latest-gcw-zero.opk) | Legacy | No
 Strange Adventure in Infinite Space | [Latest](https://drive.google.com/file/d/1YZFVwSeDw-kaic5O6X7FOLA-EBeOW1HI/view?usp=sharing) | [Inactive](https://github.com/ptitSeb/sais) | No
 Streets of Rage Remake v5.1 | [Latest](https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU) | [Legacy](https://sega.com) | No (Recommended to set `Video Options -> Shadows` from `Reflected` to `SOR` type to mitigate crashes.)
-Super Mario War | [Latest](https://gameblabla.nl/files/ipk/gcw0/smw_gcw0.opk) | Active (Source N/A) | No
+Super Mario War | [SMW 2.0-WIP](https://gameblabla.nl/files/ipk/gcw0/smw_gcw0.opk) | Active (Source N/A) / [Active](https://github.com/bbruno5/smw-rg350) | No
 SuperTux | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/supertux.opk) | [Inactive](https://github.com/dmitrysmagin/supertux) | No
 Syoban Action | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Syobon%20Action.opk) | Legacy (Source N/A) | No
 TailTale | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/TailTale.opk) | [Inactive](https://bitbucket.org/shin_nil/tale-tail-gcw-zero) | No
@@ -202,7 +201,7 @@ Amstrad CPC | CrocoDS | [2020-01-15](https://www.kyuran.be/rg350/crocods_2020011
 Apple II(GS) | KEGS | [2016-05-04](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/KEGS_2016-05-04.opk)| [Inactive](https://github.com/gameblabla/kegs-gcw) | Apple II GS ROM, `~/.kegs/ROM`, and related games/hard disk images. [READ THE README.](https://boards.dingoonity.org/gcw-development/(alpha)-kegs-for-gcw0-apple-iigs-emulator/)
 Arcade - FBA | FinalBurnAlpha | [0.2.97.35 (Speed)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/FinalBurnAlpha_2020-01-22-.35_alias.opk) [0.2.97.44 (Compatibility)](https://github.com/goldmojo/fba-sdl/releases) | [Active](https://github.com/goldmojo/fba-sdl) | Varies
 Arcade - Laserdisc | Daphne | [2015-05-07](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Daphne_2015-05-07.opk) | [Inactive](https://github.com/DavidKnight247/Daphne) | [Compatible Laserdisc Games (Conversion Tutorial Link)](https://boards.dingoonity.org/gcw-releases/daphne/)
-Arcade - MAME (0.52, 0.69, 0.84) | XMAME (Installer)* | [2015-03-15](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/XMAME_2015-03-15.opk) [2020-10-02-BETA](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/xmame_2.0.opk) | [Inactive (Archive)](https://drive.google.com/open?id=1SzIjckEVjSAKdnRQGT7kbH9c_B9X3k8-) | Internal: `/usr/local/share/xmame/{xmame52 OR xmame69 OR xmame84}/roms`, External: `/media/sdcard/apps/xmame/{xmame52 OR xmame69 OR xmame84}/roms`
+Arcade - MAME (0.52, 0.69, 0.84) | XMAME (Installer)* | [2020-10-02_v2.0BETA](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/xmame_2.0.opk) | Active? (Source N/A) | Games location: `$INSTALLPATH/{mame4all2|xmame69|xmame84}/roms`
 Atari VCS (2600) | Stella | [2015-10-06](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Stella_2015-10-06.opk) | [Inactive](https://github.com/DavidKnight247/Stella-3.9.3) | No
 Atari 5200 & 8-Bits Platform (Atari 400/800) | Atari800 | [2020-02-14 (For 1.5.1)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Atari800_2020-02-14-Stock.opk) [2020-02-14 (For 1.5.2)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Atari800_2020-02-14.opk) | [Active (Source N/A)](https://boards.dingoonity.org/retro-game-350rg-350/atari800-4-1-0/) | No?
 Atari 7800 | ProSystem | [2013-06-16-launcher](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/ProSystem_2013-06-16-launcher.opk) | [Inactive](https://github.com/alekmaul/prosystem) | No
@@ -221,7 +220,7 @@ Nintendo Game & Watch (LCD) | Game&Watch | [2020-03-18](https://github.com/Seong
 Nintendo Game Boy (DMG, Color) | Gambatte | [Latest](https://github.com/bardeci/dot-matrix-simulator/releases/latest) | [Active Fork](https://github.com/bardeci/dot-matrix-simulator) | No
 Nintendo Game Boy Advance | ReGBA | [Latest](https://github.com/pcercuei/ReGBA/releases) | [Active Fork](https://github.com/pcercuei/ReGBA) | (Optional) Game Boy Advance BIOS, `~/.gpsp/gba_bios.bin`
 Nintendo Pokémon Mini | PokeMini | [Latest](https://gameblabla.nl/files/ipk/gcw0/pokemini_gcw0.opk) | [Inactive](https://github.com/gameblabla/pokemini) | No
-NEC PC-Engine/TurboGrafx-16, CD System | Temper | [Latest](https://gameblabla.nl/files/ipk/gcw0/temper_rs97_gcw0.opk) | [Active](https://github.com/gameblabla/temper) | (Optional) PC-Engine Super System Card 3, `~/.temper/syscards/syscard3.pce`
+NEC PC-Engine/TurboGrafx-16, CD System | Temper | [Latest](https://gameblabla.nl/files/ipk/gcw0/temper_gcw0.opk) | [Active](https://github.com/gameblabla/temper) | (Optional) PC-Engine Super System Card 3, `~/.temper/syscards/syscard3.pce`
 NEC PC-FX | SmallPCFX | [Latest](https://github.com/gameblabla/pcfx-mednafen/releases/latest) | [Inactive](https://github.com/gameblabla/pcfx-mednafen) | PC-FX BIOS, `~/.mednafen/pcfx.rom`
 PC - MS-DOS | DOSBox v0.74 | [2019-11-11-launcher](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/DOSBox_2019-11-11-launcher.opk) | [Active Fork](https://github.com/soarqin/dosbox-rg350) | No
 PC - MSX (1, 2, 2+) | OpenMSX | [v0.15 (2018-12-23)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/openMSX-0.15-remap.opk) | [Inactive (Upstream Deprecated)](https://github.com/openMSX/openMSX) | (Optional) BlueMSX Compatible System Folders, Configurable
