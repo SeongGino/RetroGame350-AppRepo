@@ -63,7 +63,6 @@ Nightly | [OPK Update](http://od.abstraction.se/opendingux/latest/)
 |---------|:----------:|------------:|
 [1.5](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5%20Changelog.txt) | [1.5_SD Card Image](https://drive.google.com/open?id=1DZGJtw6nMVaAT8PHUBasiOrCKcnZ1s70) | N/A
 [1.5.1](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.1%20Changelog.txt) | N/A | [1.5.1_OPK Updater](https://drive.google.com/open?id=1YlMs_L-1xVXa-pbjlkNViQPahdoC_Y8n)
-[1.5.2 (Testing)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/!RG-350_UpdateLogs/Firmware%201.5.2%20(UNOFFICIAL)%20Changelog.txt) | N/A | [1.5.2_OPK Updater](https://drive.google.com/open?id=1Pzr6p5QGq1-oaBgpAY4uuld8hFMKDiUo)
 [HDMI (BETA)](https://github.com/SeongGino/RetroGame350-AppRepo/blob/master/!RG-350_UpdateLogs/HDMI%20Updater%20Notes.md) | N/A | [HDMI Updater (RG-350)](https://drive.google.com/file/d/1Y1gCNGiedtYBP7lnGW7kd9S_5fYQwfaL/view) & [HDMI Updater (RG-350 M)](https://drive.google.com/file/d/1fI-sePexfwJgKJBHSPAeBD8MgKCgrjAn/view)
 
 ### PlayGo / Pocket Go 2 / Miyoo Max
@@ -96,7 +95,7 @@ Bubble Bobble Remake | [Latest](https://github.com/SeongGino/RetroGame350-AppRep
 Cannonball* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cannonball.opk) | [Inactive](https://github.com/gameblabla/Cannonballs) | OutRun (sitdown/upright, Rev B) Data Files (Unzipped), `~/.cannonball/roms/`
 Cannon Fodder | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cannonfodder.opk) | Legacy (Source N/A) | No
 Cave Story (NXEngine) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/CaveStory.opk) | Inactive (Source N/A) | No
-C-Dogs SDL | [0.6.6](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cdogs-sdl_0.6.6.opk) | [Inactive (Upstream deprecated)](https://github.com/cxong/cdogs-sdl) | No
+C-Dogs SDL | [0.6.6](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/cdogs-sdl_0.6.6.opk) | [Inactive (Upstream Deprecated)](https://github.com/cxong/cdogs-sdl) | No
 Chocolate Doom** *** | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/ChocolateDOOM_2013-06-12-aliasfilter.opk) | Inactive (Source N/A) | No
 Commander Genius | [Latest](https://github.com/goldmojo/Commander-Genius/releases) | [Active](https://github.com/goldmojo/Commander-Genius) | Commander Keen (1-6, Dreams) Data Files, `~/.CommanderGenius/games/`
 Descent 1 (d1x)** | [RetroFW ver.](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/d1x-rebirth.opk) | Inactive (Source N/A) | (Optional) Descent Data Files, `~/.d1x-rebirth/`, will fallback to built-in Shareware if not found.
@@ -158,8 +157,8 @@ Shadow Warrior* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw
 SkiFree! | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/skifree_v7.opk) | Active (Source N/A) | No
 Slitherlink | [v1.1](https://github.com/glebm/od-slitherlink/releases/latest/download/slitherlink-rg350.opk) | [Inactive](http://beyondds.free.fr/index.php?Dingoo-slitherlink) [(Mirror)](https://github.com/glebm/od-slitherlink)
 Snowman | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/snowman.opk) | [Inactive](https://github.com/theZiz/snowman) | No
-Sonic Robo Blast 2* | [2.1.15](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8) | [Inactive Fork](https://github.com/gameblabla/srb2-gcw) | No
-Sonic Robo Blast 2 Kart* | [Latest](https://gameblabla.nl/files/ipk/gcw0/srb2kart.opk) | [Active](https://github.com/gameblabla/Kart-Public) | No
+Sonic Robo Blast 2* | [Latest](https://gameblabla.nl/files/ipk/gcw0/srb2_gcw0.opk) / [2.1.15](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8) | Active (N/A) [Inactive Fork](https://github.com/gameblabla/srb2-gcw) | No
+Sonic Robo Blast 2 Kart* | [Latest](https://gameblabla.nl/files/ipk/gcw0/srb2kart_gcw0.opk) | [Active](https://github.com/gameblabla/Kart-Public) | No
 Sopwith | [Latest](https://github.com/jamesofarrell/sopwith/releases/latest) | [Active](https://github.com/jamesofarrell/sopwith) | No
 Sqrxz (Remake) | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/sqrxz-v.latest-gcw-zero.opk) | Legacy | No
 Sqrxz 2: Two seconds 'til death | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/sqrxz2-v.latest-gcw-zero.opk) | Legacy | No
@@ -215,25 +214,25 @@ Coleco Colecovision | ColecOD | [2013-06-15-launcher](https://github.com/SeongGi
 Commodore 64 | VICE-x64 | [2020-02-13](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/VICEx64_2020-02-13.opk) | Active [(Source N/A)](https://boards.dingoonity.org/retro-game-350rg-350/vice-3-4-sdl2/) | No
 Commodore Amiga | UAE4All | [Latest](https://github.com/goldmojo/uae4all/releases/latest) | [Active Fork](https://github.com/goldmojo/uae4all/) | Amiga 500 Kickstart ROM, `~/.uae4all/kick.rom`
 Mattel Intellivision | JzIntv | [2015-03-28](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/jzIntv_2015-03-28.opk) | [Inactive](https://github.com/DavidKnight247/jzIntv) | No
-MB/GCE Vectrex | DinguxVectrex* | [2014-05-25](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/DinguxVectrex_2014-05-25.opk) | [Inactive](https://github.com/kerheol/dingux-vectrex) | No
+MB/GCE Vectrex | Vecx | [Latest](https://gameblabla.nl/files/ipk/gcw0/vecxemu_gcw0.opk) | Active (Source N/A) | No
 Nintendo Entertainment System, Famicom Disk System | FCEUX | [2019-11-15](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/FCEUX_2019-11-15.opk) | [Active Fork](https://github.com/soarqin/fceux-for-retrogame) | (Optional) Famicom Disk System ROM, `~/.fceux/disksys.rom`
 Nintendo Entertainment System, Famicom Disk System (High Accuracy) | Nestopia (ALPHA) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Nestopia_2020-01-01.opk) | [Active](https://github.com/Derynect/nestopia) | (Optional) Famicom Disk System ROM, `~/.nestopia/disksys.rom`
 Nintendo Game & Watch (LCD) | Game&Watch | [2020-03-18](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/gw-rg350_2020-03-18.opk) | Active (Source N/A) | ?
 Nintendo Game Boy (DMG, Color) | Gambatte | [Latest](https://github.com/bardeci/dot-matrix-simulator/releases/latest) | [Active Fork](https://github.com/bardeci/dot-matrix-simulator) | No
 Nintendo Game Boy Advance | ReGBA | [Latest](https://github.com/pcercuei/ReGBA/releases) | [Active Fork](https://github.com/pcercuei/ReGBA) | (Optional) Game Boy Advance BIOS, `~/.gpsp/gba_bios.bin`
-Nintendo Pokémon Mini | PokeMini | [2015-07-05](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/PokeMini_2015-07-05.opk) | [Inactive](https://github.com/gameblabla/pokemini) | No
+Nintendo Pokémon Mini | PokeMini | [Latest](https://gameblabla.nl/files/ipk/gcw0/pokemini_gcw0.opk) | [Inactive](https://github.com/gameblabla/pokemini) | No
 NEC PC-Engine/TurboGrafx-16, CD System | Temper | [Latest](https://gameblabla.nl/files/ipk/gcw0/temper_rs97_gcw0.opk) | [Active](https://github.com/gameblabla/temper) | (Optional) PC-Engine Super System Card 3, `~/.temper/syscards/syscard3.pce`
 NEC PC-FX | SmallPCFX | [Latest](https://github.com/gameblabla/pcfx-mednafen/releases/latest) | [Inactive](https://github.com/gameblabla/pcfx-mednafen) | PC-FX BIOS, `~/.mednafen/pcfx.rom`
 PC - MS-DOS | DOSBox v0.74 | [2019-11-11-launcher](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/DOSBox_2019-11-11-launcher.opk) | [Active Fork](https://github.com/soarqin/dosbox-rg350) | No
-PC - MSX (1, 2, 2+) | OpenMSX | [v0.15 (2018-12-23)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/openMSX-0.15-remap.opk) | [Upstream](https://github.com/openMSX/openMSX) | (Optional) BlueMSX Compatible System Folders, Configurable
+PC - MSX (1, 2, 2+) | OpenMSX | [v0.15 (2018-12-23)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/openMSX-0.15-remap.opk) | [Inactive (Upstream Deprecated)](https://github.com/openMSX/openMSX) | (Optional) BlueMSX Compatible System Folders, Configurable
 PC - Point-and-Click Adventure Games | ScummVM*	| [Latest](https://github.com/craigsc/scummvm-rg350/releases/latest) | [Active Fork](https://github.com/craigsc/scummvm-rg350) | No
 PICO-8 | Retro8 | [Latest](https://github.com/Jakz/retro8/releases/latest) | [Active](https://github.com/Jakz/retro8) | No
 Sega Master System, Game Gear | SMS Plus GX | [Latest](https://gameblabla.nl/files/ipk/gcw0/smsplus_gcw0.opk) | [Active](https://github.com/gameblabla/sms_sdl) | No
 Sega Genesis/Mega Drive, CD, Master System, Game Gear, SG-1000 | Genesis Plus GX | [2019-12-23](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/GenesisPlusGX_2019-12-23.opk) | [Active](https://github.com/Derynect/Genesis-Plus-GX) | (Optional) Sega/Mega CD BIOS Images, `bios_CD_U.bin` `bios_CD_J.bin` `bios_CD_E.bin`: `~/.genplus/bios/`
-Sega Genesis/Mega Drive, CD, 32X, Master System | PicoDrive | [Latest](https://gameblabla.nl/files/ipk/gcw0/picodrive_gcw0.opk) | Active (Source N/A) | (Optional) Sega/Mega CD BIOS Images, `bios_CD_U.bin` `bios_CD_J.bin` `bios_CD_E.bin`: `~/.picodrive/`
-SNK Neo-Geo CD | NEO4All* | [2019-12-16](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/NEO4All_2019-12-16.opk) | [Active Fork...? (Source N/A)](http://toro.2ch.sc/test/read.cgi/gsaloon/1572848152/) | Neo-Geo CD BIOS, `~/.neo4all/neocd.bin`, Neo-Geo CD games in `.cue`+`.img`+`.sub` format in `~/.neo4all/roms`
+Sega Genesis/Mega Drive, CD, 32X, Master System | PicoDrive | [Latest (FW 1.5.x)](https://gameblabla.nl/files/ipk/gcw0/PicoDrive_old_firmware.opk)  [Latest (OpenDingux Current)](https://gameblabla.nl/files/ipk/gcw0/PicoDrive_new_fw.opk) | Active (Source N/A) | (Optional) Sega/Mega CD BIOS Images, `bios_CD_U.bin` `bios_CD_J.bin` `bios_CD_E.bin`: `~/.picodrive/`
+SNK Neo-Geo CD | NEO4All | [Latest](https://github.com/nicodanyan/neo4all/releases) | [Active Fork](https://github.com/nicodanyan/neo4all) | Neo-Geo CD BIOS, `~/.neo4all/neocd.bin`
 SNK Neo-Geo Pocket (B/W, Color) | NGPCEmu	| [Latest](https://gameblabla.nl/files/ipk/gcw0/ngpcemu_gcw0.opk) | [Active](https://github.com/gameblabla/NGPCemu) | No
-Sony PlayStation | PCSX4All | [Latest (Gameblabla)](https://gameblabla.nl/files/ipk/gcw0/pcsx4all_gcw0.opk) [2.4_2019-12-12 (for PG2)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/PCSX4All_2019-12-12.opk) | [Active Fork (Gameblabla)](https://github.com/gameblabla/pcsx4all_rs97_rg350) [Active Fork (Soarqin)](https://github.com/soarqin/RG350_pcsx4all) | PlayStation BIOS, `~/.pcsx4all/bios/`
+Sony PlayStation | PCSX4All | [2.4_2019-12-12](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/PCSX4All_2019-12-12.opk) | [Active Fork (Soarqin)](https://github.com/soarqin/RG350_pcsx4all) | PlayStation BIOS, `~/.pcsx4all/bios/`
 Super Nintendo Entertainment System (Fast, Low Accuracy - Stable Branch) | PocketSNES | [Latest](https://github.com/m45t3r/PocketSNES/releases) | [Active Fork](https://github.com/m45t3r/PocketSNES) | No
 Super Nintendo Entertainment System (Fast, Low Accuracy - Experimental Branch) | snex9x4d | [Latest](https://github.com/m45t3r/snes9x4d/releases) | [Active Fork](https://github.com/m45t3r/snes9x4d) | No
 Super Nintendo Entertainment System (High Accuracy, Slow) | Snes9x | [2019-11-11](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Emulators/Snes9x_2019-11-11.opk) | [Active Fork](https://github.com/soarqin/snes9x) | No
@@ -268,7 +267,7 @@ SimpleMenu | [Latest](https://github.com/fgl82/simplemenu/releases/latest) | [Ac
 |------|:--------:|-------:|
 Bard Storyteller (Ebooks) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/Bard_0.10.0.opk) | [Legacy (Archive)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/SourceArchives/bard-0.10.0-release.tar.bz2)
 CPU Governor Setting | [Original](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/performance.opk) | N/A
-Dingux Commander (Glebm Fork) | [Latest](https://github.com/glebm/rs97-commander/releases/download/2020-03-06/commander-rg350.opk) | [Active Fork](https://github.com/glebm/rs97-commander)
+Dingux Commander (Glebm Fork) | [2020-04-04](https://github.com/glebm/od-commander/releases/download/2020-04-04/commander-rg350.opk) | [Inactive Fork](https://github.com/glebm/rs97-commander)
 Dingux Commander KAI (WIP) | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/dinguxcmd_kai-20200121.opk) | [Active Fork (2020-01-20-Archive)](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/SourceArchives/dinguxCommander_Kai-src_20200120.zip)
 FFPlay | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/ffplay-gcw0.opk) | [Inactive](https://github.com/denis-n-kuznetsov/FFmpeg-GCW0)
 Glutext | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Applications/glutexto.opk) | [Legacy](https://boards.dingoonity.org/gcw-releases/glutexto-1-2/)
