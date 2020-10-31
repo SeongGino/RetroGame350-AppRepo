@@ -166,6 +166,7 @@ Sqrxz 3: Adventure for Love | [Final](https://github.com/SeongGino/RetroGame350-
 Sqrxz 4: Cold Cash | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/sqrxz4-v.latest-gcw-zero.opk) | Legacy | No
 Strange Adventure in Infinite Space | [Latest](https://drive.google.com/file/d/1YZFVwSeDw-kaic5O6X7FOLA-EBeOW1HI/view?usp=sharing) | [Inactive](https://github.com/ptitSeb/sais) | No
 Streets of Rage Remake v5.1 | [Latest](https://drive.google.com/open?id=1cKkZOzmYBQoocJadpLo2i8eDItSNAwCU) | [Legacy](https://sega.com) | No (Recommended to set `Video Options -> Shadows` from `Reflected` to `SOR` type to mitigate crashes.)
+Stunt Car Remake | [Latest](https://github.com/goldmojo/stuntcarremake/releases) | [Active](https://github.com/goldmojo/stuntcarremake) | No
 Super Mario War | [SMW 2.0-WIP](https://gameblabla.nl/files/ipk/gcw0/smw_gcw0.opk) | Active (Source N/A) / [Active](https://github.com/bbruno5/smw-rg350) | No
 SuperTux | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/supertux.opk) | [Inactive](https://github.com/dmitrysmagin/supertux) | No
 Syoban Action | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Syobon%20Action.opk) | Legacy (Source N/A) | No
