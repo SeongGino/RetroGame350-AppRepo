@@ -155,10 +155,10 @@ SDLQuake2* | [Latest](https://drive.google.com/open?id=1JZ17OhATuBklEUP5NQ73bVLE
 Shadow Warrior* | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/shadow-warior.opk) | [Inactive Fork](https://github.com/JohnnyonFlame/gcw0-jfsw) | Shadow Warrior (Shareware/Registered) Data Files, `~/.jfsw/sw.grp`
 SkiFree! | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/skifree_v7.opk) | Active (Source N/A) | No
 Slitherlink | [v1.1](https://github.com/glebm/od-slitherlink/releases/latest/download/slitherlink-rg350.opk) | [Inactive](http://beyondds.free.fr/index.php?Dingoo-slitherlink) [(Mirror)](https://github.com/glebm/od-slitherlink)
-SM64-OD | [Latest-DIY](https://colab.research.google.com/drive/1qOgTuukxdc6ehxtofV4SEFAXcZFuflUm?usp=sharing) | [Active](https://github.com/JohnnyonFlame/sm64-od-port) | Build-your-own-OPK. `***NOT TO BE REDISTRIBUTED***`
+SM64-OD* | [Latest-DIY](https://colab.research.google.com/drive/1qOgTuukxdc6ehxtofV4SEFAXcZFuflUm?usp=sharing) | [Active](https://github.com/JohnnyonFlame/sm64-od-port) | Build-your-own-OPK. `***NOT TO BE REDISTRIBUTED***`
 Snowman | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/snowman.opk) | [Inactive](https://github.com/theZiz/snowman) | No
-Sonic Robo Blast 2* | [Latest](https://gameblabla.nl/files/ipk/gcw0/srb2_gcw0.opk) / [2.1.15](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8) | Active (N/A) [Inactive Fork](https://github.com/gameblabla/srb2-gcw) | No
-Sonic Robo Blast 2 Kart* | [Latest](https://gameblabla.nl/files/ipk/gcw0/srb2kart_gcw0.opk) | [Active](https://github.com/gameblabla/Kart-Public) | No
+Sonic Robo Blast 2* | [Latest (OpenDingux Current)](https://gameblabla.nl/files/ipk/gcw0/srb2_gcw0.opk) / [2.1.15 (1.5.x)](https://drive.google.com/open?id=1Lgg-sNFN8zPFdkbuk5te2CWc9iUY7rF8) | Active (N/A) [Inactive Fork](https://github.com/gameblabla/srb2-gcw) | No
+Sonic Robo Blast 2 Kart* | [Latest (OpenDingux Current)](https://gameblabla.nl/files/ipk/gcw0/srb2kart_gcw0.opk) | [Active](https://github.com/gameblabla/Kart-Public) | No
 Sopwith | [Latest](https://github.com/jamesofarrell/sopwith/releases/latest) | [Active](https://github.com/jamesofarrell/sopwith) | No
 Sqrxz (Remake) | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/sqrxz-v.latest-gcw-zero.opk) | Legacy | No
 Sqrxz 2: Two seconds 'til death | [Final](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/sqrxz2-v.latest-gcw-zero.opk) | Legacy | No
