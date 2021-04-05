@@ -171,6 +171,7 @@ Super Mario War | [SMW 2.0-WIP](https://gitlab.com/gameblabla/gameblabla-release
 SuperTux | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/supertux.opk) | [Inactive](https://github.com/dmitrysmagin/supertux) | No
 Syoban Action | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/Syobon%20Action.opk) | Legacy (Source N/A) | No
 TailTale | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/TailTale.opk) | [Inactive](https://bitbucket.org/shin_nil/tale-tail-gcw-zero) | No
+Tecnoballz | [Latest](https://github.com/JORGETECH/repackaged-opks/raw/main/tecnoballz-fixed.opk) | [Legacy](https://github.com/dmitrysmagin/tecnoballz/tree/gcw0) | No
 Tron-clone | [Latest](https://github.com/jamesofarrell/tron-clone/releases/latest) | [Active](https://github.com/jamesofarrell/tron-clone) | No (Multiplayer Only)
 TuxPuck | [Latest](https://github.com/goldmojo/TuxPuck/releases) | [Active](https://github.com/goldmojo/TuxPuck) | No
 UMG-v0.4Demo | [Latest](https://github.com/SeongGino/RetroGame350-AppRepo/raw/master/Games-Ports/umg-gcw-exclusive-preview-0.4.opk) | [Legacy](http://artur-rojek.eu/umg.php) | No
