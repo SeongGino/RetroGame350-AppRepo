@@ -42,13 +42,13 @@ It is [***highly recommended***](https://old.reddit.com/r/RG350/comments/f5v25n/
 
 ### UPDATE: Current OpenDingux
 
-As of October 7th, the firmwares for the **RG-350, RG-350M, and GCW Zero** *[are now merged under the new-and-improved upstream OpenDingux.](https://zcrc.me/opendingux/2020/10/13/we-have-nighties.html)* Currently, these are considered ***ALPHA QUALITY*** and will be unstable in many ways compared to the individual device releases below, but can introduce anywhere from small to significant improvements in performance, functionality, and is overall much less of a headache to manage than the different forks for different devices. Eventually, *this will become the new standard firmware for OpenDingux-based devices;* however, like any change, this will be a transitionary period until the upstream OpenDingux is considered stable.
+As of October 7th, the firmwares for the **RG-350, RG-350M, and GCW Zero** *[are now merged under the new-and-improved upstream OpenDingux.](https://zcrc.me/opendingux/2020/10/13/we-have-nighties.html)* Currently, these are considered ***BETA QUALITY*** and will be unstable in many ways compared to the individual device releases below, but can introduce anywhere from small to significant improvements in performance, functionality, and is overall much less of a headache to manage than the different forks for different devices. Eventually, *this will become the new standard firmware for OpenDingux-based devices;* however, like any change, this will be a transitionary period until the upstream OpenDingux is considered stable.
 
-Once again, these releases **are alpha** and can/(probably) will crash or corrupt things, so if you choose to do this, *either backup your internal SD card's contents,* or *use a different internal SD card for current OpenDingux.* These are distributed as OPK updaters; it's recommended you be running the latest *legacy* firmware for your device of choice to ensure everything is functioning as intended before updating to *current.*
+Once again, these releases **are beta** and can/(probably) will crash or corrupt things, so if you choose to do this, *either backup your internal SD card's contents,* or *use a different internal SD card for current OpenDingux.* These are distributed as OPK updaters; it's recommended you be running the latest *legacy* firmware for your device of choice to ensure everything is functioning as intended before updating to *current.*
 
-| Version | OPK Update |
-|---------|-----------:|
-[Nightly](https://boards.dingoonity.org/gcw-general/opendingux-beta-nighty-builds/) | [OPK Update](http://od.abstraction.se/opendingux/latest/)
+Versions:
+* [HEAD](https://github.com/OpenDingux/buildroot/actions?query=branch%3Aopendingux)
+* [Beta Release](https://github.com/OpenDingux/buildroot/releases)
 
 
 *Base Images:* For either new SD Cards, or corrupted/old in-use internal cards that may need a full update. Requires using a PC with an SD Reader/Adapter. Comes with built-in apps. Typically only provided for Major version updates.
